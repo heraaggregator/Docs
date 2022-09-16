@@ -10,12 +10,14 @@ More details: [_https://armors.io/_](https://armors.io/)
 
 ![](.gitbook/assets/audit.jpg)
 
+
+
+### Hera Aggregator V1 Contracts
+
 Audit results: PASSED
 
 * Hera Aggregator Contract ✅
 * Fee Organizer Contract ✅
-
-
 
 **Check audit reports:**
 
