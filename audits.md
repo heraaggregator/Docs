@@ -12,15 +12,15 @@ More details: [_https://armors.io/_](https://armors.io/)
 
 ### Hera Aggregator V2 Contracts <a href="#undefined" id="undefined"></a>
 
-Audit results: _Pending_
+Audit results: _**Pending**_
 
 * HeraAggregatorV2 Contract ✅
 * HeraExecutor Contract (self-reported) ✅
 * HeraFeeSequencer Contract ✅
 
-##
 
-### &#x20;Aggregator V1 Contracts
+
+### &#x20;Hera Aggregator V1 Contracts
 
 Audit results: PASSED
 
