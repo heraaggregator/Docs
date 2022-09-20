@@ -5,18 +5,23 @@ coverY: 0
 
 # Audits
 
-Our smart contracts audited by **Armor Labs**.\
-More details: [_https://armors.io/_](https://armors.io/)
+**Your security is our priority!**
+
+An independent audit is always important. Hera Aggregator V1 was audited by [**Armors Labs**](https://armors.io). \
+Now, Hera Aggregator V2 upgrade has been audited by [**HashEx**](https://hashex.org)!
 
 ![](.gitbook/assets/audit.jpg)
 
 ### Hera Aggregator V2 Contracts <a href="#undefined" id="undefined"></a>
 
-Audit results: _**Pending**_
+Audit results: _**Pending**_ <img src=".gitbook/assets/34338d26023e5515f6cc8969aa027bca_w200.gif" alt="" data-size="line">
 
-* HeraAggregatorV2 Contract ✅
-* HeraExecutor Contract (self-reported) ✅
-* HeraFeeSequencer Contract ✅
+* HeraAggregatorV2 (Router)
+* HeraExecutor
+* HeraFeeSequencer
+* Queen
+* HeraPowerCompiler
+* ExecutorManagement
 
 
 
