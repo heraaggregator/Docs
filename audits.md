@@ -10,7 +10,7 @@ coverY: 0
 An independent audit is always important. Hera Aggregator V1 was audited by [**Armors Labs**](https://armors.io). \
 Now, Hera Aggregator V2 upgrade has been audited by [**HashEx**](https://hashex.org)!
 
-![](.gitbook/assets/audit.jpg)
+<figure><img src=".gitbook/assets/hashex-partner.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Hera Aggregator V2 Contracts <a href="#undefined" id="undefined"></a>
 
