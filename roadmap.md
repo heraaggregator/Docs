@@ -32,26 +32,32 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 * [x] Core: RPC Model Upgrade
 * [x] Live: New Website and Docs
-* [ ] Launch: Hera Aggregator v2 on Metis:tada:
+* [ ] Audit: Hera Aggregator V2 with HashEx
 * [ ] Upgrade: AI Powered Pathfinder
-* [ ] Launch: Multichain Compatible (Avalanche & Fantom & Aurora & Cronos) :tada:
-* [ ] Core: AI Powered VaultManager
 * [ ] Core: New AMM Integrations
+* [ ] Launch: Hera Aggregator v2 on Metis:tada:
 
 #### Q4 / 2022
 
-* [ ] Staking Portal: Farming
-* [ ] New: Aggregator Leaderboard
+* [ ] Launch: Multichain Compatible (Avalanche, Fantom, Aurora, Cronos and more) :tada:
+* [ ] Core: AI Powered VaultManager
 * [ ] New: Hera Analytics Portal
-* [ ] Hera: Governance & DAO
-* [ ] Core: SDK for Hera Dex Aggregator
+* [ ] New: Aggregator Leaderboard
+* [ ] Staking Portal: New Staking Pools & Farming
 * [ ] Core: New Chains & AMMs
 
-#### Q1-Q2 / 2023
+#### Q1 / 2023
 
+* [ ] Core: SDK for Hera Dex Aggregator
+* [ ] Core: PMM Integrations
+* [ ] Hera: Governance & DAO
 * [ ] Features: Live Stats for Aggregator
 * [ ] Launch: Hera Dashboard | Multichain
+
+#### Q2-Q3 / 2023
+
 * [ ] Dex Aggregator: Multi Token Swap & Aggregator
 * [ ] Features: Yield Optimizer on Dashboard
 * [ ] Core: Limit Order on Hera Aggregator
-* [ ] Core: PMM Integrations
+* [ ] Core: All-In-One Access Swap Protocol
+* [ ] Core: Crosschain Swap Aggregator
