@@ -7,21 +7,23 @@ coverY: 0
 
 **Your security is our priority!**
 
-An independent audit is always important. Hera Aggregator V1 was audited by [**Armors Labs**](https://armors.io). \
-Now, Hera Aggregator V2 upgrade has been audited by [**HashEx**](https://hashex.org)!
+An independent audit is always important. Hera Aggregator V1 was audited by **Armors Labs**. \
 
-<figure><img src=".gitbook/assets/hashex-partner.jpg" alt=""><figcaption></figcaption></figure>
+
+Now, **Hera Aggregator V2** upgrade has been audited by [**HashEx**](https://hashex.org)**.**
+
+<figure><img src=".gitbook/assets/audit-hashex.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Hera Aggregator V2 Contracts <a href="#undefined" id="undefined"></a>
 
 Audit results: _**Pending**_ <img src=".gitbook/assets/34338d26023e5515f6cc8969aa027bca_w200.gif" alt="" data-size="line">
 
-* HeraAggregatorV2 (Router)
-* HeraExecutor
-* HeraFeeSequencer
-* Queen
-* HeraPowerCompiler
-* ExecutorManagement
+* HeraAggregatorV2 (Router): 0x0000000000924fb1969e719edeD2feD54AFB183A\
+  [https://andromeda-explorer.metis.io/address/0x0000000000924fb1969e719edeD2feD54AFB183A](https://andromeda-explorer.metis.io/address/0x0000000000924fb1969e719edeD2feD54AFB183A)&#x20;
+* HeraFeeSequencer: 0x000000fEe322aAA0a5772e7F92DE10180f9fAB15\
+  [https://andromeda-explorer.metis.io/address/0x000000fEe322aAA0a5772e7F92DE10180f9fAB15](https://andromeda-explorer.metis.io/address/0x000000fEe322aAA0a5772e7F92DE10180f9fAB15)
+* HeraExecutor: 0x852d1fDd3982D8e21145845af74Db7ae37D1F383\
+  [https://andromeda-explorer.metis.io/address/0x852d1fDd3982D8e21145845af74Db7ae37D1F383](https://andromeda-explorer.metis.io/address/0x852d1fDd3982D8e21145845af74Db7ae37D1F383)
 
 
 
