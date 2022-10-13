@@ -1,12 +1,12 @@
-# Aurora
+# Optimism
 
-### Hera Aggregator V2 Contracts on Aurora <a href="#undefined" id="undefined"></a>
+### Hera Aggregator V2 Contracts on Optimism <a href="#undefined" id="undefined"></a>
 
 {% hint style="danger" %}
 <mark style="color:red;">**Not Deployed Yet !**</mark>
 {% endhint %}
 
-**Network:** Aurora
+**Network:** Optimism
 
 **Route**: Hera Dex Aggregator Contracts
 

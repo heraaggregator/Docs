@@ -1,6 +1,6 @@
 # Metis
 
-### Hera Aggregator V2 Contracts <a href="#undefined" id="undefined"></a>
+### Hera Aggregator V2 Contracts on Metis <a href="#undefined" id="undefined"></a>
 
 **Network:** Metis
 

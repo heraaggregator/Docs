@@ -25,13 +25,17 @@
 ***
 
 * [Audits](audits.md)
-* [Smart Contracts](smart-contracts/README.md)
-  * [Metis](smart-contracts/metis.md)
-  * [Aurora](smart-contracts/aurora.md)
-  * [Avalanche](smart-contracts/avalanche.md)
-  * [Cronos](smart-contracts/cronos.md)
-  * [Fantom](smart-contracts/fantom.md)
 * [Integrated Protocols](https://hera.finance/integrated-protocols.html)
+
+## Smart Contracts
+
+* [Metis](smart-contracts/metis.md)
+* [Optimism](smart-contracts/optimism.md)
+* [Arbitrum](smart-contracts/arbitrum.md)
+* [Aurora](smart-contracts/aurora.md)
+* [Avalanche](smart-contracts/avalanche.md)
+* [Cronos](smart-contracts/cronos.md)
+* [Fantom](smart-contracts/fantom.md)
 
 ## Developers
 

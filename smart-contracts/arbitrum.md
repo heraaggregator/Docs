@@ -1,12 +1,12 @@
-# Aurora
+# Arbitrum
 
-### Hera Aggregator V2 Contracts on Aurora <a href="#undefined" id="undefined"></a>
+### Hera Aggregator V2 Contracts on Arbitrum <a href="#undefined" id="undefined"></a>
 
 {% hint style="danger" %}
 <mark style="color:red;">**Not Deployed Yet !**</mark>
 {% endhint %}
 
-**Network:** Aurora
+**Network:** Arbitrum
 
 **Route**: Hera Dex Aggregator Contracts
 
