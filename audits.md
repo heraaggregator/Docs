@@ -7,29 +7,33 @@ coverY: 0
 
 **Your security is our priority!**
 
-An independent audit is always important. Hera Aggregator V1 was audited by **Armors Labs**. \
-
+An independent audit is always important. Hera Aggregator V1 was audited by **Armors Labs**.&#x20;
 
 Now, **Hera Aggregator V2** upgrade has been audited by [**HashEx**](https://hashex.org)**.**
 
 <figure><img src=".gitbook/assets/audit-hashex.jpg" alt=""><figcaption></figcaption></figure>
 
-### Hera Aggregator V2 Contracts <a href="#undefined" id="undefined"></a>
+### <mark style="color:green;">Active: Hera Aggregator V2 Contracts</mark> <a href="#undefined" id="undefined"></a>
 
-Audit results: _**Pending**_ <img src=".gitbook/assets/34338d26023e5515f6cc8969aa027bca_w200.gif" alt="" data-size="line">
+Audit results: <mark style="color:green;">**Passed**</mark> <img src=".gitbook/assets/zero.png" alt="" data-size="line"><mark style="color:green;">****</mark>
 
-* HeraAggregatorV2 (Router): 0x0000000000924fb1969e719edeD2feD54AFB183A\
-  [https://andromeda-explorer.metis.io/address/0x0000000000924fb1969e719edeD2feD54AFB183A](https://andromeda-explorer.metis.io/address/0x0000000000924fb1969e719edeD2feD54AFB183A)&#x20;
-* HeraFeeSequencer: 0x000000fEe322aAA0a5772e7F92DE10180f9fAB15\
-  [https://andromeda-explorer.metis.io/address/0x000000fEe322aAA0a5772e7F92DE10180f9fAB15](https://andromeda-explorer.metis.io/address/0x000000fEe322aAA0a5772e7F92DE10180f9fAB15)
-* HeraExecutor: 0x852d1fDd3982D8e21145845af74Db7ae37D1F383\
-  [https://andromeda-explorer.metis.io/address/0x852d1fDd3982D8e21145845af74Db7ae37D1F383](https://andromeda-explorer.metis.io/address/0x852d1fDd3982D8e21145845af74Db7ae37D1F383)
+* HeraAggregatorV2 (Router): **Passed** <mark style="color:green;">✅</mark>
+* HeraFeeSequencer: **Passed** <mark style="color:green;">✅</mark>
+* HeraExecutor: **Passed** <mark style="color:green;">✅</mark>
+* ExecutorManagement: **Passed** <mark style="color:green;">✅</mark>
+* Queen: **Passed** <mark style="color:green;">✅</mark>
 
+**Audit Reports:**&#x20;
 
+* _Coming Soon_
 
-### &#x20;Hera Aggregator V1 Contracts
+__
 
-Audit results: PASSED
+****
+
+### Old: Hera Aggregator V1 Contracts
+
+Audit results: Passed ✅
 
 * Hera Aggregator Contract ✅
 * Fee Organizer Contract ✅
