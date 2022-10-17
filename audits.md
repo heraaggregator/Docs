@@ -25,9 +25,13 @@ Audit results: <mark style="color:green;">**Passed**</mark> <img src=".gitbook/a
 
 **Audit Reports:**&#x20;
 
-* _Coming Soon_
+{% file src=".gitbook/assets/Hera-AggregatorV2_audit-report.pdf" %}
+HeraAggregatorV2 Audit Report - HashEx
+{% endfile %}
 
-__
+{% hint style="success" %}
+Also, check audit report page in HashEx -> [https://hashex.org/audits/conducted-audits/319](https://hashex.org/audits/conducted-audits/319)
+{% endhint %}
 
 ****
 
