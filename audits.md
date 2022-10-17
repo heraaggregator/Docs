@@ -13,6 +13,8 @@ Now, **Hera Aggregator V2** upgrade has been audited by [**HashEx**](https://has
 
 <figure><img src=".gitbook/assets/audit-hashex.jpg" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://github.com/heraaggregator/HeraAggregatorV2-Contracts" %}
+
 ### <mark style="color:green;">Active: Hera Aggregator V2 Contracts</mark> <a href="#undefined" id="undefined"></a>
 
 Audit results: <mark style="color:green;">**Passed**</mark> <img src=".gitbook/assets/zero.png" alt="" data-size="line"><mark style="color:green;">****</mark>
@@ -30,10 +32,8 @@ HeraAggregatorV2 Audit Report - HashEx
 {% endfile %}
 
 {% hint style="success" %}
-Also, check audit report page in HashEx -> [https://hashex.org/audits/conducted-audits/319](https://hashex.org/audits/conducted-audits/319)
+Also, check Hera Aggregator V2 audit reports page in HashEx website -> [https://hashex.org/audits/conducted-audits/319](https://hashex.org/audits/conducted-audits/319)
 {% endhint %}
-
-****
 
 ### Old: Hera Aggregator V1 Contracts
 
