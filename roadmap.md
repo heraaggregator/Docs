@@ -17,7 +17,7 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [x] Smart Contracts and Multihops ready
 * [x] Testnet: Hera Dex Aggregator
 * [x] Event: Hera Token Seed & Private Sale
-* [x] Audits
+* [x] Audit: Hera Aggregator V1 with Armors
 * [x] Event: Hera Token Public Sale
 * [x] Launch: Hera Token
 
@@ -32,29 +32,30 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 * [x] Core: RPC Model Upgrade
 * [x] Live: New Website and Docs
-* [ ] Audit: Hera Aggregator V2 with HashEx
+* [x] Audit: Hera Aggregator V2 with HashEx
 * [ ] Upgrade: AI Powered Pathfinder
 * [ ] Core: New AMM Integrations
 * [ ] Launch: Hera Aggregator v2 on Metis:tada:
 
 #### Q4 / 2022
 
-* [ ] Launch: Multichain Compatible (Avalanche, Fantom, Aurora, Cronos and more) :tada:
-* [ ] Core: AI Powered VaultManager
+* [ ] Core: SDK for Hera Dex Aggregator
+* [ ] Launch: Multichain Compatible :tada:
+* [ ] Launch: Hera Aggregator will be deployed new chains
 * [ ] New: Hera Analytics Portal
 * [ ] New: Aggregator Leaderboard
 * [ ] Staking Portal: New Staking Pools & Farming
-* [ ] Core: New Chains & AMMs
 
 #### Q1 / 2023
 
-* [ ] Core: SDK for Hera Dex Aggregator
-* [ ] Core: PMM Integrations
+* [ ] Core: AI Powered VaultManager
 * [ ] Hera: Governance & DAO
+* [ ] Core: PMM Integrations
 * [ ] Features: Live Stats for Aggregator
-* [ ] Launch: Hera Dashboard | Multichain
+* [ ] Launch: Hera Dashboard
+* [ ] Core: New Chains & AMMs
 
-#### Q2-Q3 / 2023
+#### Q2-Q4 / 2023
 
 * [ ] Dex Aggregator: Multi Token Swap & Aggregator
 * [ ] Features: Yield Optimizer on Dashboard
