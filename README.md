@@ -6,7 +6,7 @@ coverY: 0
 # Welcome
 
 {% hint style="info" %}
-Coming Soon: Hera Aggregator V2
+Hera Aggregator v2.0 launched and now live! <img src=".gitbook/assets/zero.png" alt="" data-size="line">
 {% endhint %}
 
 Hera is the key liquidity aggregator, offering the widest range of tokens and the best route discovery between any token pairs.

@@ -30,12 +30,12 @@
 ## Smart Contracts
 
 * [Metis](smart-contracts/metis.md)
-* [Optimism](smart-contracts/optimism.md)
 * [Arbitrum](smart-contracts/arbitrum.md)
 * [Aurora](smart-contracts/aurora.md)
 * [Avalanche](smart-contracts/avalanche.md)
 * [Cronos](smart-contracts/cronos.md)
 * [Fantom](smart-contracts/fantom.md)
+* [Optimism](smart-contracts/optimism.md)
 
 ## Developers
 

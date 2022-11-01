@@ -5,8 +5,6 @@ coverY: 0
 
 # Utility Token
 
-#### Hera Token $HERA Utility Areas
-
 ![](../.gitbook/assets/utility-token-landing-min.jpg)
 
 Hera Token is the governance token of Hera ecosystem. Asides from voting, the token is used in many other areas in the ecosystem.

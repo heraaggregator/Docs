@@ -33,9 +33,9 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [x] Core: RPC Model Upgrade
 * [x] Live: New Website and Docs
 * [x] Audit: Hera Aggregator V2 with HashEx
-* [ ] Upgrade: AI Powered Pathfinder
-* [ ] Core: New AMM Integrations
-* [ ] Launch: Hera Aggregator v2 on Metis:tada:
+* [x] Upgrade: AI Powered Pathfinder
+* [x] Core: New AMM Integrations
+* [x] Launch: Hera Aggregator v2 on Metis:tada:
 
 #### Q4 / 2022
 
