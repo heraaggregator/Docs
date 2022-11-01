@@ -5,7 +5,7 @@ coverY: 0
 
 # Welcome
 
-{% hint style="info" %}
+{% hint style="success" %}
 Hera Aggregator v2.0 launched and now live! <img src=".gitbook/assets/zero.png" alt="" data-size="line">
 {% endhint %}
 

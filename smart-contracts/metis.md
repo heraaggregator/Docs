@@ -16,6 +16,6 @@
 | HeraPowerComplier        | _Pending_                                                                                                                                 |
 | HeraAggregatorV1: Router | [0xAfCB0803F96dC1e9768d14ce55b1a46b26deb24c](https://andromeda-explorer.metis.io/address/0xAfCB0803F96dC1e9768d14ce55b1a46b26deb24c) (V1) |
 
-{% hint style="info" %}
+{% hint style="success" %}
 Hera Aggregator v2.0 launched and now live! <img src="../.gitbook/assets/zero.png" alt="" data-size="line">
 {% endhint %}
