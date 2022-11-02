@@ -25,7 +25,7 @@
 ***
 
 * [Audits](audits.md)
-* [Integrated Protocols](https://hera.finance/integrated-protocols.html)
+* [Integrated Protocols](https://hera.finance/integrated-protocols)
 
 ## Smart Contracts
 
