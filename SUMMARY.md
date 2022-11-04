@@ -39,7 +39,7 @@
 
 ## Developers
 
-* [Swapper SDK](developers/swapper-sdk.md)
+* [Swapper API](developers/swapper-api.md)
 * [Tokenomics API](developers/tokenomics-api.md)
 
 ## Branding Assets
