@@ -42,6 +42,4 @@ Devs on Metis Network can be a landmine of potential hiccups. On our end, we aim
 * Providing various methods of accessing the swap, so all apps, dapps, and programs can use it seamlessly
 * Providing updated liquidity sources, token lists, and possible UX improvements as soon as possible.
 
-{% hint style="success" %}
-If you are a protocol developer or project manager and looking for a communication way to integrate into Hera Aggregator; please contact us via Twitter, Telegram, Discord or mail. Thanks!
-{% endhint %}
+> If you are a protocol developer or project manager and looking for a communication way to integrate into Hera Aggregator; please contact us via Twitter, Telegram, Discord or mail. Thanks!
