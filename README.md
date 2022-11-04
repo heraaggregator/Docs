@@ -1,13 +1,6 @@
----
-cover: .gitbook/assets/cover-gitbook2.jpg
-coverY: 0
----
+# Welcome to Hera Dex Aggregator
 
-# Welcome
-
-{% hint style="success" %}
-Hera Aggregator v2.0 launched and now live! <img src=".gitbook/assets/zero.png" alt="" data-size="line">
-{% endhint %}
+> Hera Aggregator v2.0 launched and now live!
 
 Hera is the key liquidity aggregator, offering the widest range of tokens and the best route discovery between any token pairs.
 
