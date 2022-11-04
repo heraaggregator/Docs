@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/cover-gitbook2.jpg
 coverY: 0
 ---
 
-# APIs
+# Tokenomics API
 
 Hera Token Supply API Endpoints
 
@@ -11,10 +11,3 @@ Hera Token Supply API Endpoints
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
 | Total Supply       | [https://supply.hera.finance/v1.0/supply/total](https://supply.hera.finance/v1.0/supply/total)             |
 
-
-
-Hera Dex Aggregator - Pathfinder APIs
-
-{% hint style="info" %}
-Under development!
-{% endhint %}

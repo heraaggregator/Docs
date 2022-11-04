@@ -39,8 +39,8 @@
 
 ## Developers
 
-* [APIs](developers/apis.md)
-* [Aggregator SDK](developers/aggregator-sdk.md)
+* [Swapper SDK](developers/swapper-sdk.md)
+* [Tokenomics API](developers/tokenomics-api.md)
 
 ## Branding Assets
 
