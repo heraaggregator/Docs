@@ -39,7 +39,9 @@
 
 ## Developers
 
-* [Swapper API](developers/swapper-api.md)
+* [Emporia SDK](developers/emporia-sdk/README.md)
+  * [Swagger API](developers/emporia-sdk/swagger-api.md)
+  * [Examples](developers/emporia-sdk/examples.md)
 * [Tokenomics API](developers/tokenomics-api.md)
 
 ## Branding Assets

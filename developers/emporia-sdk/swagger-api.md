@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-gitbook2.jpg
+cover: ../../.gitbook/assets/cover-gitbook2.jpg
 coverY: 0
 ---
 
-# Swapper SDK
+# Swagger API
 
 ## Hera Aggregation Protocol API
 
