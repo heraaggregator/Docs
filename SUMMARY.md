@@ -40,6 +40,7 @@
 ## Developers
 
 * [Emporia SDK](developers/emporia-sdk/README.md)
+  * [Overview](developers/emporia-sdk/overview.md)
   * [Swagger API](developers/emporia-sdk/swagger-api.md)
   * [Examples](developers/emporia-sdk/examples.md)
 * [Tokenomics API](developers/tokenomics-api.md)

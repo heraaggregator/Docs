@@ -20,7 +20,7 @@ Progressing:
 4. When you ready use to perform swap (/swap)
 
 {% hint style="info" %}
-EmporiaSDK now launched on Metis Mainnet. Other chains coming soon!
+**EmporiaSDK now launched on Metis Mainnet.** Other chains coming soon!
 {% endhint %}
 
 <details>
