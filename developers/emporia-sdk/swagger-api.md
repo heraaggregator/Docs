@@ -63,8 +63,8 @@ GET https://pathfindersdk.hera.finance/quote?account=0x0000Fee3F6eEB1Ebddb23251A
 
 #### Swap
 
-{% swagger src="../../.gitbook/assets/openapi.json" path="/swap" method="get" %}
-[openapi.json](../../.gitbook/assets/openapi.json)
+{% swagger src="../../.gitbook/assets/EmporiaSDK-Metis-v1-1.json" path="/swap" method="get" %}
+[EmporiaSDK-Metis-v1-1.json](../../.gitbook/assets/EmporiaSDK-Metis-v1-1.json)
 {% endswagger %}
 
 {% code overflow="wrap" %}
