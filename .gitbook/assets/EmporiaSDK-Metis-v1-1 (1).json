@@ -1,0 +1,581 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Hera EmporiaSDK Swagger v1.1",
+    "description": "\n<h2>on Metis Mainnet</h2>\nUsing Hera Aggregation protocol API, you can find the best route to exchange assets and make the exchange.\n<br><br>\nProgressing:\n1. Lookup addresses of tokens you want to swap, for example ‘0xxx’ , ‘0xxxx’ for USDC -> METIS\n2. Check for allowance and if necessary give approval for HeraAggregatorV2 contract to spend token (/allowance)\n3. Monitor the best exchange route using (/quote)\n4. When you ready use to perform swap (/swap)\n",
+    "contact": {
+      "email": "info@hera.finance"
+    },
+    "version": "1.1",
+    "license": {
+      "name": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://pathfindersdk.hera.finance"
+    }
+  ],
+  "externalDocs": {
+    "description": "Docs - Hera Finance",
+    "url": "https://docs.hera.finance"
+  },
+  "paths": {
+    "/allowance": {
+      "get": {
+        "operationId": "AllowanceAll",
+        "summary": "Check for allowance and if necessary give approval for Hera Aggregator contract to spend token.",
+        "parameters": [
+          {
+            "name": "account",
+            "required": true,
+            "in": "query",
+            "example": "0x0000Fee3F6eEB1Ebddb23251A3918A55CAF03365",
+            "description": "Your wallet address",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "amount",
+            "required": true,
+            "in": "query",
+            "example": "1000000",
+            "description": "The number of tokens that the Hera Aggregator router is allowed to spend. If not specified, it will be allowed to spend an infinite amount of tokens.",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "tokenInAddress",
+            "required": true,
+            "in": "query",
+            "example": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+            "description": "Token address you want to swap",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Transaction body to allow the swap with the Hera Aggregator router",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Allowance"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Error details",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AllowanceErrorDto"
+                }
+              }
+            }
+          }
+        },
+        "tags": [
+          "Allowance"
+        ]
+      }
+    },
+    "/quote": {
+      "get": {
+        "operationId": "PathfinderQuote",
+        "summary": "Find the best quote to swap via Hera Aggregator router",
+        "parameters": [
+          {
+            "name": "account",
+            "required": true,
+            "in": "query",
+            "description": "Your wallet address",
+            "example": "0x0000Fee3F6eEB1Ebddb23251A3918A55CAF03365",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "amount",
+            "required": true,
+            "in": "query",
+            "description": "",
+            "example": "1000000",
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "tokenInAddress",
+            "required": true,
+            "in": "query",
+            "description": "from token",
+            "example": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "tokenInChainId",
+            "required": true,
+            "in": "query",
+            "description": "",
+            "example": "1088",
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "tokenOutAddress",
+            "required": true,
+            "in": "query",
+            "description": "to token",
+            "example": "0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "tokenOutChainId",
+            "required": false,
+            "in": "query",
+            "description": "",
+            "example": "1088",
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Quote",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PathfinderQuoteDto"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "One of the following errors: <br><br>Insufficient liquidity<br>Cannot estimate<br>You may not have enough METIS balance for gas fee<br>tokenInAddress cannot be equals to tokenOutAddress<br>Cannot estimate. Don't forget about miner fee. Try to leave the buffer of METIS for gas<br>Not enough balance<br>Not enough allowance",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PathfinderQuoteErrorDto"
+                }
+              }
+            }
+          }
+        },
+        "tags": [
+          "Swap"
+        ]
+      }
+    },
+    "/swap": {
+      "get": {
+        "operationId": "SwapExecute",
+        "summary": "When you ready use to perform swap",
+        "parameters": [
+          {
+            "name": "account",
+            "required": true,
+            "in": "query",
+            "description": "Your wallet address",
+            "example": "0x0000Fee3F6eEB1Ebddb23251A3918A55CAF03365",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "dstAccount",
+            "required": false,
+            "in": "query",
+            "description": "Recipient address ( if dstAccount is left blank, dstAccount = account )",
+            "example": "0x0000Fee3F6eEB1Ebddb23251A3918A55CAF03365",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "amount",
+            "required": true,
+            "in": "query",
+            "description": "",
+            "example": "1000000",
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "tokenInAddress",
+            "required": true,
+            "in": "query",
+            "description": "from token",
+            "example": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "tokenOutAddress",
+            "required": true,
+            "in": "query",
+            "description": "to token",
+            "example": "0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "slippage",
+            "required": false,
+            "in": "query",
+            "description": "While HeraGuard is active, the slippage rate is set to 0% and will protect you from front-running. However, if this feature is active, your transaction may fail due to price fluctuations during processing.<br><br>Min: 0% and Max: 50%<br><br><b>!! Default slippage: 0% !!</b>",
+            "example": 0,
+            "schema": {
+              "type": "number"
+            }
+          },
+          {
+            "name": "deadline",
+            "required": false,
+            "in": "query",
+            "description": "Default deadline: ~20min",
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Swap",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SwapExecuteDto"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "One of the following errors: <br><br>Insufficient liquidity<br>Cannot estimate<br>You may not have enough METIS balance for gas fee<br>tokenInAddress cannot be equals to tokenOutAddress<br>Cannot estimate. Don't forget about miner fee. Try to leave the buffer of METIS for gas<br>Not enough balance<br>Not enough allowance",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SwapExecuteErrorDto"
+                }
+              }
+            }
+          }
+        },
+        "tags": [
+          "Swap"
+        ]
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Allowance": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "boolean"
+          },
+          "allowance": {
+            "type": "integer",
+            "description": "Allowance amount or zero, if amount is 0 need to give approve to contract"
+          },
+          "tx": {
+            "type": "object",
+            "properties": {
+              "to": {
+                "type": "string"
+              },
+              "data": {
+                "type": "string"
+              },
+              "gasPrice": {
+                "type": "integer"
+              },
+              "value": {
+                "type": "integer"
+              }
+            }
+          }
+        },
+        "required": [
+          "status",
+          "allowance"
+        ]
+      },
+      "AllowanceErrorDto": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string",
+            "description": "Error code description",
+            "example": false
+          },
+          "message": {
+            "type": "string",
+            "description": "Error description (one of the following)",
+            "example": "Please enter a valid account!"
+          }
+        },
+        "required": [
+          "status",
+          "message"
+        ]
+      },
+      "PathfinderQuoteDto": {
+        "type": "object",
+        "properties": {
+          "blockNumber": {
+            "type": "integer"
+          },
+          "maxReturnResult": {
+            "type": "object",
+            "properties": {
+              "fromTokenAmount": {
+                "type": "string"
+              },
+              "fromTokenAmountNumber": {
+                "type": "number"
+              },
+              "toTokenAmount": {
+                "type": "string"
+              },
+              "toTokenAmountNumber": {
+                "type": "number"
+              },
+              "toTokenNativeAmount": {
+                "type": "string"
+              },
+              "gasUnitsConsumed": {
+                "type": "string"
+              },
+              "routes": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "amount": {
+                      "type": "string"
+                    },
+                    "amountOut": {
+                      "type": "string"
+                    },
+                    "subRoutes": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "amount": {
+                            "type": "string"
+                          },
+                          "amountOut": {
+                            "type": "string"
+                          },
+                          "paths": {
+                            "type": "array",
+                            "items": {
+                              "type": "object",
+                              "properties": {
+                                "fromTokenAddress": {
+                                  "type": "string"
+                                },
+                                "toTokenAddress": {
+                                  "type": "string"
+                                },
+                                "meta": {
+                                  "type": "object",
+                                  "properties": {
+                                    "fromTokenAddress": {
+                                      "type": "string"
+                                    },
+                                    "toTokenAddress": {
+                                      "type": "string"
+                                    },
+                                    "pairAddress": {
+                                      "type": "string"
+                                    },
+                                    "routerAddress": {
+                                      "type": "string"
+                                    },
+                                    "fromAmount": {
+                                      "type": "string"
+                                    },
+                                    "toTokenAmount": {
+                                      "type": "string"
+                                    }
+                                  }
+                                },
+                                "market": {
+                                  "type": "object",
+                                  "properties": {
+                                    "id": {
+                                      "type": "string"
+                                    },
+                                    "name": {
+                                      "type": "string"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "directResult": {
+            "type": "object",
+            "properties": {
+              "amm": {
+                "type": "string"
+              },
+              "route": {
+                "type": "array",
+                "items": {},
+                "example": [
+                  "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21"
+                ]
+              },
+              "fromTokenAmount": {
+                "type": "integer"
+              },
+              "toTokenAmount": {
+                "type": "integer"
+              }
+            }
+          },
+          "fromTokenAddress": {
+            "type": "string"
+          },
+          "fromTokenAmount": {
+            "type": "string"
+          },
+          "toTokenAddress": {
+            "type": "string"
+          },
+          "toTokenAmount": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "blockNumber",
+          "maxReturnResult",
+          "directResult",
+          "fromTokenAddress",
+          "fromTokenAmount",
+          "toTokenAddress",
+          "toTokenAmount"
+        ]
+      },
+      "PathfinderQuoteErrorDto": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string",
+            "description": "Error code description",
+            "example": false
+          },
+          "message": {
+            "type": "string",
+            "description": "Error description (one of the following)",
+            "example": "Please enter a valid account!"
+          }
+        },
+        "required": [
+          "status",
+          "message"
+        ]
+      },
+      "SwapExecuteDto": {
+        "type": "object",
+        "properties": {
+          "blockNumber": {
+            "type": "integer"
+          },
+          "fromTokenAddress": {
+            "type": "string"
+          },
+          "fromTokenAmount": {
+            "type": "string"
+          },
+          "fromTokenAmountNumber": {
+            "type": "number"
+          },
+          "toTokenAddress": {
+            "type": "string"
+          },
+          "toTokenAmount": {
+            "type": "string"
+          },
+          "toTokenAmountNumber": {
+            "type": "number"
+          },
+          "tx": {
+            "type": "object",
+            "properties": {
+              "data": {
+                "type": "string"
+              },
+              "gasPrice": {
+                "type": "string"
+              },
+              "gas": {
+                "type": "string"
+              },
+              "value": {
+                "type": "string"
+              },
+              "to": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "required": [
+          "blockNumber",
+          "fromTokenAddress",
+          "fromTokenAmount",
+          "toTokenAddress",
+          "toTokenAmount",
+          "tx"
+        ]
+      },
+      "SwapExecuteErrorDto": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string",
+            "description": "Error code description",
+            "example": false
+          },
+          "message": {
+            "type": "string",
+            "description": "Error description (one of the following)",
+            "example": "Please enter a valid account!"
+          }
+        },
+        "required": [
+          "status",
+          "message"
+        ]
+      }
+    }
+  }
+}
