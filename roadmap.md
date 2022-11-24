@@ -39,26 +39,31 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 #### Q4 / 2022
 
-* [ ] Core: SDK for Hera Dex Aggregator
+* [x] Staking Portal: Update Single Staking Pool
+* [x] Core: EmporiaSDK - Hera Swagger API release
 * [ ] Launch: Multichain Compatible :tada:
-* [ ] Launch: Hera Aggregator will be deployed new chains
-* [ ] New: Hera Analytics Portal
-* [ ] New: Aggregator Leaderboard
-* [ ] Staking Portal: New Staking Pools & Farming
+* [ ] Launch: Hera Aggregator v2 launch on new chain
+* [ ] New: Hera Analytics Dashboard
 
 #### Q1 / 2023
 
+* [ ] Staking Portal: LP Farming
 * [ ] Core: AI Powered VaultManager
 * [ ] Hera: Governance & DAO
-* [ ] Core: PMM Integrations
 * [ ] Features: Live Stats for Aggregator
-* [ ] Launch: Hera Dashboard
+* [ ] Features: Aggregator Leaderboard
+
+#### Q2 / 2023
+
 * [ ] Core: New Chains & AMMs
-
-#### Q2-Q4 / 2023
-
-* [ ] Dex Aggregator: Multi Token Swap & Aggregator
+* [ ] Launch: Hera Dashboard
 * [ ] Features: Yield Optimizer on Dashboard
-* [ ] Core: Limit Order on Hera Aggregator
+* [ ] Core: PMM Integrations
 * [ ] Core: All-In-One Access Swap Protocol
-* [ ] Core: Crosschain Swap Aggregator
+
+#### Q3-Q4 / 2023
+
+* [ ] Launch: Hera Aggregator v3
+* [ ] Core: Crosschain Dex Aggregator
+* [ ] Core: Limit Order Protocol
+* [ ] Core: Multi Token Aggregator
