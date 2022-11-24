@@ -1,4 +1,4 @@
-# Welcome to Hera Dex Aggregator
+# Welcome
 
 > Hera Aggregator v2.0 launched and now live!
 
@@ -24,17 +24,18 @@ Hera Aggregator provides maximum output in swap transactions for traders with AI
 Integrate with Hera in order to:
 
 * Offer best price for swaps
+* Available for any token to token swap
 * Fast, user friendly UX and gas optimization
 * All-in-one access to decentralized finance
 * Ai powered pathfinder and chainfinder
 * Hera Guard feature: Zero slippage swap option
 * Automatically stay up to date with the latest tokens and liquidity sources
-* Make swaps a revenue source by adding your own platform fee to the transaction&#x20;
+* Make swaps a revenue source by adding your own platform fee to the transaction
 * Set their caching options to make their swap as speedy or as precise they wish to be.
 
-> Aggregator SDK, APIs and on-chain program support coming soon.
+> EmporiaSDK has been successfully released! [<mark style="color:green;">**Check Now!**</mark>](developers/emporia-sdk/)<mark style="color:green;">****</mark>
 
-#### Developer Support (soon)
+#### Developer Support
 
 Devs on Metis Network can be a landmine of potential hiccups. On our end, we aim to make developing a good swap interface or program as seamless and magical as possible. We do this by:
 
