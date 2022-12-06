@@ -13,7 +13,7 @@ Protocol's revenues from swap transactions are transferred to the Hera Treasury.
 
 ### 30% - Ecosystem Funding
 
-The treasury of the Hera project helps to develop and maintain the size of the investment. It has a guarantee that covers the entire ecosystem.
+Hera's treasury project helps to develop and maintain revenue collection. It is designed to cover many facets of Hera's ecosystem.
 
 Hera Protocol must be an absolute treasure for its survival, and this treasure must be strengthened as much as possible. In this regard, 30% of the income from the protocol earnings is transferred to the treasury to cover possible expenses and expand the Hera project.
 
