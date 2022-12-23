@@ -41,28 +41,32 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 * [x] Staking Portal: Update Single Staking Pool
 * [x] Core: EmporiaSDK - Hera Swagger API release
-* [ ] Launch: Multichain Compatible :tada:
-* [ ] Launch: Hera Aggregator v2 launch on new chain
-* [ ] New: Hera Analytics Dashboard
+* [x] Core: Pathfinder Minor-II Update
+* [x] Research: Using LayerZero for crosschain deployment
+* [x] Core: Upgrade HCA Modules to 2.0 #AI
+* [ ] Features: ChainFinder by Hera rebuilt
 
 #### Q1 / 2023
 
+* [ ] Launch: Multichain Compatible :tada:
+* [ ] Launch: Hera Aggregator on Arbitrum
+* [ ] New: Hera Analytics Dashboard
 * [ ] Staking Portal: LP Farming
 * [ ] Core: AI Powered VaultManager
-* [ ] Hera: Governance & DAO
 * [ ] Features: Live Stats for Aggregator
-* [ ] Features: Aggregator Leaderboard
 
 #### Q2 / 2023
 
+* [ ] Hera: Governance & DAO
+* [ ] Features: Aggregator Leaderboard
 * [ ] Core: New Chains & AMMs
 * [ ] Launch: Hera Dashboard
 * [ ] Features: Yield Optimizer on Dashboard
 * [ ] Core: PMM Integrations
-* [ ] Core: All-In-One Access Swap Protocol
 
 #### Q3-Q4 / 2023
 
+* [ ] Core: All-In-One Access Swap Protocol
 * [ ] Launch: Hera Aggregator v3
 * [ ] Core: Crosschain Dex Aggregator
 * [ ] Core: Limit Order Protocol
