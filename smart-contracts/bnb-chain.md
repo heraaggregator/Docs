@@ -1,14 +1,14 @@
-# Cronos
+# BNB Chain
 
-### Hera Aggregator V2 Contracts on Cronos <a href="#undefined" id="undefined"></a>
+### Hera Aggregator V2 Contracts on BNB Chain <a href="#undefined" id="undefined"></a>
 
 {% hint style="danger" %}
 <mark style="color:red;">**Not Deployed Yet !**</mark>
 {% endhint %}
 
-**Network:** Cronos
+Chain: **BNB Chain**
 
-**Route**: Hera Dex Aggregator Contracts
+Contracts:
 
 | Name                     | Contract Address                                                                                 |
 | ------------------------ | ------------------------------------------------------------------------------------------------ |

@@ -1,14 +1,14 @@
-# Aurora
+# Ethereum
 
-### Hera Aggregator V2 Contracts on Aurora <a href="#undefined" id="undefined"></a>
+### Hera Aggregator V2 Contracts on Ethereum <a href="#undefined" id="undefined"></a>
 
 {% hint style="danger" %}
 <mark style="color:red;">**Not Deployed Yet !**</mark>
 {% endhint %}
 
-**Network:** Aurora
+Chain: **Ethereum**
 
-**Route**: Hera Dex Aggregator Contracts
+Contracts:
 
 | Name                     | Contract Address                                                                                 |
 | ------------------------ | ------------------------------------------------------------------------------------------------ |

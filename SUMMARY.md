@@ -31,9 +31,9 @@
 
 * [Metis](smart-contracts/metis.md)
 * [Arbitrum](smart-contracts/arbitrum.md)
-* [Aurora](smart-contracts/aurora.md)
 * [Avalanche](smart-contracts/avalanche.md)
-* [Cronos](smart-contracts/cronos.md)
+* [BNB Chain](smart-contracts/bnb-chain.md)
+* [Ethereum](smart-contracts/ethereum.md)
 * [Fantom](smart-contracts/fantom.md)
 * [Optimism](smart-contracts/optimism.md)
 

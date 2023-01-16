@@ -6,9 +6,9 @@
 <mark style="color:red;">**Not Deployed Yet !**</mark>
 {% endhint %}
 
-**Network:** Optimism
+Chain: **Optimism**
 
-**Route**: Hera Dex Aggregator Contracts
+Contracts:
 
 | Name                     | Contract Address                                                                                 |
 | ------------------------ | ------------------------------------------------------------------------------------------------ |
