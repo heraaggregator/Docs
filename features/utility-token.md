@@ -27,4 +27,4 @@ Aggregator platform charges a fee for swap transactions. The current rate is 0.3
 
 #### 04. Hera DAO & Governance (soon)
 
-A proposal will be submitted to the community to make decisions concerning the platform. Hera Token holders have voting rights. Studies on a fair management structure continue.
+Proposals will be submitted to the community to make decisions concerning the platform. Hera Token holders have voting rights. Studies on a fair management structure continue.
