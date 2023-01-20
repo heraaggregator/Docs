@@ -27,7 +27,7 @@ Hera project provides off-chain services both on the blockchain and on off-chain
 
 **(Rate: 0-50%  |  Decision Maker: AI Powered VaultManager)**
 
-According to the report presented by VaultManager, Hera Tokens are buyback from market. Bought tokens are held in the treasury, added to liquidity or transfer to Staking Portal.
+According to the report recommendations presented by VaultManager, Hera tokens may be subject to buybacks from the market. Bought tokens can be held in the treasury, added to liquidity or transferred to the Staking Portal.
 
 We have programmed a unique artificial intelligence module to reduce the initiative of the team and turn their decisions into a positive direction. By making a detailed analysis about Hera Token, it reports how much buyback should be made to the team and how much it should add to the liquidity. It also instantly examines treasury resources for liquidity. These reports are presented off-chain, buyback and liquidity addition transactions are done on-chain with the VaultManager contract.
 
