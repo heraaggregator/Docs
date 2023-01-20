@@ -11,7 +11,7 @@ We believe in the power and sustainability of multichain applications. Multichai
 
 ### How does it work?
 
-Hera Aggregator can be deployed to new networks quickly and flexibly. Smart contracts, front-end and back-end algorithms are integrated into the artificial intelligence module. According to the network requirements, the optimization of the contracts is completed and launched. Let's take a look at how the process works.
+Hera Aggregator can be deployed to new networks quickly and flexibly. Smart contracts, front-end and back-end algorithms are integrated into the artificial intelligence module. According to the network requirements, the optimization of the contracts are completed and launched. Let's take a look at how the process works.
 
 #### 01. Contract Deployment
 
