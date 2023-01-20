@@ -33,8 +33,6 @@ Integrate with Hera in order to:
 * Make swaps a revenue source by adding your own platform fee to the transaction
 * Set their caching options to make their swap as speedy or as precise they wish to be.
 
-> EmporiaSDK has been successfully released! [<mark style="color:green;">**Check Now!**</mark>](developers/emporia-sdk/)<mark style="color:green;">****</mark>
-
 #### Developer Support
 
 Developing can be difficult at times. On our end, we aim to make creating a superb swap interface or program as seamless and magical as possible. We do this by:
@@ -42,5 +40,11 @@ Developing can be difficult at times. On our end, we aim to make creating a supe
 * Removing key barriers to providing a good UX, including having clear instructions for issues like ATAs and open orders.
 * Providing various methods of accessing the swap, so all apps, dapps, and programs can use it seamlessly
 * Providing updated liquidity sources, token lists, and possible UX improvements as soon as possible.
+
+> EmporiaSDK has been successfully released! [<mark style="color:green;">**Check Now!**</mark>](developers/emporia-sdk/)<mark style="color:green;">****</mark>
+
+{% content-ref url="developers/emporia-sdk/" %}
+[emporia-sdk](developers/emporia-sdk/)
+{% endcontent-ref %}
 
 > If you are a protocol developer or project manager and looking for a communication way to integrate into Hera Aggregator; please contact us via Twitter, Telegram, Discord or mail. Thanks!
