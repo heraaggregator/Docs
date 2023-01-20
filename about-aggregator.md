@@ -5,15 +5,15 @@ coverY: 0
 
 # About Aggregator
 
-Hera Aggregator is a protocol that aims to provide the best swap return by scanning multiple liquidity plural markets. It uses trade splitting and multi-hop features to find the best route.
+Hera Aggregator is a protocol that aims to provide the best swap return by scanning multiple liquidity provider markets. It uses trade splitting and multi-hop features to find the best route.
 
-Sometimes it interacts directly with a single AMM to find the best route, sometimes it operates on multiple AMMs. It creates new paths by dividing it according to the input amount. Each road creates the best route independently of each other. Therefore, the maximum output amount is made. In other words, both maximum income is obtained and a balance is created in the pools.
+Sometimes it interacts directly with a single AMM to find the best route. Depending on need, it operates on multiple AMMs. It creates new paths by dividing it according to the input amount. Each road creates the best route independently of each other, therefore, the maximum output amount is made. In other words, both maximum income is obtained and a balance is created in the pools.
 
 ![](.gitbook/assets/overview-friendly.jpg)
 
 Hera has an artificial intelligence powered off-chain calculation program that creates routes. The AI makes 252,000+ calculation attempts on each query. It finds all liquidity pools and creates routes without over draft scenarios.
 
-It compiles all these routes and approves them in a single transaction. No risk and is fast.
+It compiles all routes and approves them in a single transaction safely and efficiently.
 
 
 
