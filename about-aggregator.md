@@ -5,13 +5,13 @@ coverY: 0
 
 # About Aggregator
 
-Hera Aggregator is a protocol that aims to provide the best swap return by scanning multiple liquidity providers markets. It uses trade splitting and multi-hop features to find the best route.
+Hera Aggregator is a protocol that aims to provide the best swap return by scanning multiple liquidity plural markets. It uses trade splitting and multi-hop features to find the best route.
 
-Sometimes it interacts directly with a single AMM to find the best route, sometimes it operates on multiple AMMs. It creates new paths by dividing it according to the amount of input amount. Each road creates the best route independently of each other. Therefore, the maximum output amount is made. In other words, both maximum income is obtained and a balance is created in the pools.
+Sometimes it interacts directly with a single AMM to find the best route, sometimes it operates on multiple AMMs. It creates new paths by dividing it according to the input amount. Each road creates the best route independently of each other. Therefore, the maximum output amount is made. In other words, both maximum income is obtained and a balance is created in the pools.
 
 ![](.gitbook/assets/overview-friendly.jpg)
 
-Hera has an artificial intelligence powered off-chain calculation program that creates routes. Makes 252,000+ calculation attempts on each query. It finds all liquidity pools and creates routes without over draft scenarios.
+Hera has an artificial intelligence powered off-chain calculation program that creates routes. The AI makes 252,000+ calculation attempts on each query. It finds all liquidity pools and creates routes without over draft scenarios.
 
 It compiles all these routes and approves them in a single transaction. No risk and is fast.
 
@@ -47,4 +47,4 @@ The number of markets and liquidity pools that are launching is also increasing.
 
 **Swap in a single transaction**
 
-Hera has worked to optimize its swap aggregation so that it all fits with the transaction limits so that swapping can be done in one transaction. This is important to handle cases where the price for the token you are buying has changed and no longer fits your slippage limit. If Hera Aggregator cannot make the trade with your slippage limit, it rollback the transaction and return an error.
+Hera has worked to optimize its swap aggregation so that it all fits with the transaction limits so that swapping can be done in one transaction. This is important to handle cases where the price for the token you are buying has changed and no longer fits your slippage limit. If Hera Aggregator cannot make the trade with your slippage limit, it rollsback the transaction and return an error.
