@@ -37,7 +37,7 @@ Integrate with Hera in order to:
 
 #### Developer Support
 
-Devs on Metis Network can be a landmine of potential hiccups. On our end, we aim to make developing a good swap interface or program as seamless and magical as possible. We do this by:
+Developing can be difficult at times. On our end, we aim to make creating a superb swap interface or program as seamless and magical as possible. We do this by:
 
 * Removing key barriers to providing a good UX, including having clear instructions for issues like ATAs and open orders.
 * Providing various methods of accessing the swap, so all apps, dapps, and programs can use it seamlessly
