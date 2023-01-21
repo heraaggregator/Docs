@@ -15,9 +15,9 @@ Hera Aggregator can be deployed to new networks quickly and flexibly. Smart cont
 
 #### 01. Contract Deployment
 
-The structure of the targeted network is examined and finalized by making necessary revisions in the core codes. Core and side-contracts are then launch on mainnet.
+The structure of the targeted network is examined and finalized by making necessary revisions in the core's code. After this step, core and side-contracts are then launched on mainnet.
 
-Each network can have its own characteristics. Therefore, some configurations are required to deploy Hera Aggregator to a new network. This step includes making the necessary preparations for the start.
+Each network can have its own characteristics. Therefore, some configurations are required to deploy Hera Aggregator to a new network. Finalization requires making the necessary preparations from the start.
 
 #### 02. ChainFinder by Hera
 
