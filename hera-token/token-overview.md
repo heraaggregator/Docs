@@ -7,7 +7,7 @@ coverY: 0
 
 Hera Token is the governance and utility token of Hera Finance.
 
-We are looking for a more active Hera Token usage model by creating a usage area within the entire ecosystem. Being a decision maker in the management of the project and sharing the protocol revenues; is only one of the first stage token usage areas.
+We believe in a more active Hera Token usage model. We have done so by creating usage areas within our entire ecosystem. Being a decision maker in the management of the project and sharing protocol revenues is the beginning. This is only one of the first stages for token usage areas.
 
 ### Token Details
 
