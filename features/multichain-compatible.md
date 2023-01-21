@@ -21,11 +21,11 @@ Each network can have its own characteristics. Therefore, some configurations ar
 
 #### 02. ChainFinder by Hera
 
-ChainFinder algorithm automatically generate tokens, liquidity pools and token lists in the network to be integrated.
+ChainFinder algorithm automatically generates tokens, liquidity pools and token lists in the network to be integrated.
 
-Almost every token is used in networks with different contract addresses. In addition, each network has its own tokens. Chainfinder compiles a list by comparing which of these required tokens are, which pools are making the most volume, and their liquidity sizes.
+Almost every token is used in networks with different contract addresses. In addition, each network has its own tokens. Chainfinder compiles a list by comparing which of these are required tokens, which pools are making the most volume, and their liquidity sizes.
 
-Here we obtain both the list of tokens and the selection of liquidity pools that can be used when finding routes.
+With this function we obtain both the list of tokens and the selection of liquidity pools that can be used when finding routes.
 
 #### 03. Pathfinder Update
 
