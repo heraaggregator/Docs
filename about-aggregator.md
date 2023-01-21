@@ -19,9 +19,9 @@ It compiles all routes and approves them in a single transaction safely and effi
 
 ### multi-hop routes. <img src=".gitbook/assets/multi.png" alt="" data-size="line">
 
-Hera connects all DEX markets and AMM pools no matter the provider and finds all direct and 2-hop to 5-hop routes between any two tokens on integrated networks. There can be up to 5 tokens included in a transaction path. So, it supports a maximum of 5-hop currently.
+Hera connects all DEX markets and AMM pools no matter the provider and finds all direct and 2-hop to 5-hop routes between any two tokens on integrated networks. There can be up to 5 tokens included in a transaction path. Therefore, it supports a maximum of 5-hops currently.
 
-Not only does Hera Aggregator compare the prices between markets on different DEXes but often the best priced routes are not direct markets. Instead, Hera may finds the best price by routing through an intermediary token, e.g. "X>Z>Q>Y" instead of "X>Y". This may be due to price inefficiencies and/or volatility in the various markets that Hera Aggregator routes through.
+Not only does Hera Aggregator compare the prices between markets on different DEXes it also can discover best priced routes through indirect markets. Instead of traditional methods, Hera may find the best price by routing through an intermediary token, e.g. "X>Z>Q>Y" instead of "X>Y". This method may be applied due to price inefficiencies and/or volatility in the various markets that Hera Aggregator routes through.
 
 Here are some key features for how Hera Aggregator discovers the best priced trades.
 
@@ -31,7 +31,7 @@ Here are some key features for how Hera Aggregator discovers the best priced tra
 
 Hera Aggregator will split your trade into smaller trade sizes. For example, if you want to make a 100 USDC-ETH trade, it may distribute your trade into a 30 USDC-ETH trade on AMM1 and a 70 USDC-ETH trade on AMM2.
 
-The % distribution of the trades is dynamically determined to give you the best price. Trade splitting helps get better prices for large size trades and trades with tokens where there is shallow liquidity spread out across a number of DEXes.
+The percent distribution of a trade is dynamically determined to give you the best price. Trade splitting helps get better prices for large size trades and trades with tokens where there is shallow liquidity spread out across a number of DEXes.
 
 
 
