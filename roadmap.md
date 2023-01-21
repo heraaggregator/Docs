@@ -40,14 +40,16 @@ The roadmap is constantly updated in terms of the development of the project. We
 #### Q4 / 2022
 
 * [x] Staking Portal: Update Single Staking Pool
-* [x] Core: EmporiaSDK - Hera Swagger API release
+* [x] Core: EmporiaSDK - Hera Swagger API Release
 * [x] Core: Pathfinder Minor-II Update
-* [x] Research: Using LayerZero for crosschain deployment
+* [x] Research: Using LayerZero for Crosschain Messenger
 * [x] Core: Upgrade HCA Modules to 2.0 #AI
-* [ ] Features: ChainFinder by Hera rebuilt
+* [x] Features: ChainFinder by Hera Rebuilt
 
 #### Q1 / 2023
 
+* [ ] Core: AI-Pathfinder v2.5 Upgrade
+* [ ] Core: Major-II Update for Offchain Load-Balancer
 * [ ] Launch: Multichain Compatible :tada:
 * [ ] Launch: Hera Aggregator on Arbitrum
 * [ ] New: Hera Analytics Dashboard
@@ -63,6 +65,7 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Launch: Hera Dashboard
 * [ ] Features: Yield Optimizer on Dashboard
 * [ ] Core: PMM Integrations
+* [ ] Launch: Upgrade App Interface to v2.0
 
 #### Q3-Q4 / 2023
 
