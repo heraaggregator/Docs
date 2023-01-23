@@ -2,7 +2,7 @@
 
 > Hera Aggregator v2.0 launched and now live!
 
-Hera is an AI-powered multichain dex aggregator, offering the widest range of tokens and the best route discovery between any token pairs.
+Hera is an AI-powered multichain dex aggregator offering the widest range of tokens and the best route discovery between any token pairs.
 
 We aim to provide the friendliest UX for users and the most powerful tools for developers to allow them to access the best-in-class swap in their application, interface, or on-chain programs.
 
