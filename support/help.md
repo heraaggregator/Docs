@@ -5,12 +5,12 @@ coverY: 0
 
 # Help
 
-Send us all your questions, protocol integration requests, add your token to Hera Tokenlist and all other requests please. Our team will back as soon as possible.
+To reach out to us, please use one of the channels of communication listed below. In regards to inquiries/questions, protocol integration requests, to add your token to Hera token list, or anything else; please don't hesitate to contact us. Our team will get back to you as soon as possible.
 
 * DM on Twitter
 * Mail to info@hera.finance
 * PM to Telegram community managers
 
 {% hint style="success" %}
-Attention! Please don't try to get help from non-official groups. Also, any community manager or team member don't DM first.
+**Attention!** Please don't attempt to get help from non-official groups. Also, no community manager or team member will ever directly message you first.
 {% endhint %}
