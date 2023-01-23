@@ -11,7 +11,7 @@ Hera Guard with **zero-Slippage**
 
 ### What is Hera Guard?
 
-Each AMMs has a certain slippage interval as per their algorithms. The larger the transaction amount, the larger this deviation margin. For this reason, a number different from the one that appears on the swap screen is often transferred to your wallet.
+Each automated market maker has a certain slippage interval determined by their unique algorithm. The larger the transaction amount, the larger this deviation margin typically grows. For this reason, a number different from the one that appears on the swap screen is often transferred to your wallet with traditional applications. Hera has built this feature to prevent this discrepancy from happening.
 
 * No Slippage
 * All-In Cost Definition
