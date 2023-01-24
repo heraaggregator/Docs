@@ -46,7 +46,3 @@ According to the VaultManager decision, a determined number of tokens are sent t
 **(Decision Maker: AI Powered VaultManager)**
 
 Just like the distribution percentages, the artificial intelligence algorithm decides when the distribution will be made. Performs market analysis, checks token price and liquidities, monitors volumes and examines funds in the treasury; After all this, it sends a report to the team to take action.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
