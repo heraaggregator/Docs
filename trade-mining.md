@@ -1,5 +1,5 @@
 ---
-description: AI Driven Trade Mining - New Age Hera Feature
+description: AI Driven Trade Mining
 ---
 
 # Trade Mining
