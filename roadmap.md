@@ -53,7 +53,6 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Launch: Multichain Compatible :tada:
 * [ ] Launch: Hera Aggregator on Arbitrum
 * [ ] New: Hera Analytics Dashboard
-* [ ] Staking Portal: LP Farming
 * [ ] Core: AI Powered VaultManager
 * [ ] Features: Live Stats for Aggregator
 
