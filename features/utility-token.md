@@ -17,7 +17,7 @@ In certain periods Hera tokens are purchased from the market at the rate determi
 
 #### 02. Stake and Earn
 
-More Hera Tokens can be earned by staking your tokens or LP tokens. These rewards are funded by protocol revenues. Therefore, APY rates are variable.
+More Hera Tokens can be earned by staking your tokens. The rewards are funded by protocol revenue. Therefore, APY rates are variable.
 
 {% embed url="https://staking.hera.finance" %}
 
