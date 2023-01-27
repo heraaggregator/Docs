@@ -9,7 +9,7 @@ Hera Finance has an A.I. assisted VaultManager that controls protocol revenue co
 
 Token buybacks are made possible with protocol revenue earned through exchange fees. Purchased tokens can then be burnt or added to the staking pool as a reward so that the holders can earn real yield.
 
-Staking Portal is a utility that allows Hera token holders to share in socialized protocol revenue.
+Staking is a utility that allows Hera token holders to share in socialized protocol revenue.
 
 
 
@@ -27,5 +27,5 @@ Staking Portal: **** [<mark style="color:green;">**staking.hera.finance**</mark>
 {% endhint %}
 
 {% hint style="info" %}
-APR rates in the Staking Portal vary in correlation to protocol revenue.
+APY rates in the Staking Portal vary in correlation to protocol revenue.
 {% endhint %}
