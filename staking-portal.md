@@ -27,5 +27,5 @@ Staking Portal: **** [<mark style="color:green;">**staking.hera.finance**</mark>
 {% endhint %}
 
 {% hint style="info" %}
-APY rates in the Staking Portal vary in correlation to protocol revenue.
+APY rates for staking vary in correlation to protocol revenue.
 {% endhint %}
