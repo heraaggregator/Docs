@@ -10,7 +10,7 @@ Hera Aggregator is a project that is constantly being developed and spans the en
 
 With its user-friendly interface and advanced features, Hera offers an all-in-one access solution.
 
-![](<.gitbook/assets/ai-powered-landing (1).jpg>)
+<figure><img src=".gitbook/assets/hera-flow.jpg" alt=""><figcaption><p>Hera Dex Aggregator | Workflow v2.1.7</p></figcaption></figure>
 
 Hera Aggregator provides maximum output in swap transactions for traders with AI powered **pathfinder**. Briefly, aggregator works like this:
 
