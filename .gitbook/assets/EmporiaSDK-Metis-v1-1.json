@@ -31,7 +31,7 @@
             "name": "account",
             "required": true,
             "in": "query",
-            "example": "0x0000Fee3F6eEB1Ebddb23251A3918A55CAF03365",
+            "example": "0x0000000000000000000000000000000000000000",
             "description": "Your wallet address",
             "schema": {
               "type": "string"
@@ -95,7 +95,7 @@
             "required": true,
             "in": "query",
             "description": "Your wallet address",
-            "example": "0x0000Fee3F6eEB1Ebddb23251A3918A55CAF03365",
+            "example": "0x0000000000000000000000000000000000000000",
             "schema": {
               "type": "string"
             }
@@ -163,7 +163,7 @@
             }
           },
           "400": {
-            "description": "One of the following errors: <br><br>Insufficient liquidity<br>Cannot estimate<br>You may not have enough METIS balance for gas fee<br>tokenInAddress cannot be equals to tokenOutAddress<br>Cannot estimate. Don't forget about miner fee. Try to leave the buffer of METIS for gas<br>Not enough balance<br>Not enough allowance",
+            "description": "One of the following errors: \"Insufficient liquidity\", \"Cannot estimate\", \"You may not have enough METIS balance for gas fee\", \"tokenInAddress cannot be equals to tokenOutAddress\", \"Cannot estimate. Don't forget about miner fee. Try to leave the buffer of METIS for gas\", \"Not enough balance\", \"Not enough allowance\"",
             "content": {
               "application/json": {
                 "schema": {
@@ -188,7 +188,7 @@
             "required": true,
             "in": "query",
             "description": "Your wallet address",
-            "example": "0x0000Fee3F6eEB1Ebddb23251A3918A55CAF03365",
+            "example": "0x0000000000000000000000000000000000000000",
             "schema": {
               "type": "string"
             }
@@ -198,7 +198,7 @@
             "required": false,
             "in": "query",
             "description": "Recipient address ( if dstAccount is left blank, dstAccount = account )",
-            "example": "0x0000Fee3F6eEB1Ebddb23251A3918A55CAF03365",
+            "example": "0x0000000000000000000000000000000000000000",
             "schema": {
               "type": "string"
             }
@@ -237,7 +237,7 @@
             "name": "slippage",
             "required": false,
             "in": "query",
-            "description": "While HeraGuard is active, the slippage rate is set to 0% and will protect you from front-running. However, if this feature is active, your transaction may fail due to price fluctuations during processing.<br><br>Min: 0% and Max: 50%<br><br><b>!! Default slippage: 0% !!</b>",
+            "description": "While HeraGuard is active, the slippage rate is set to 0% and will protect you from front-running. However, if this feature is active, your transaction may fail due to price fluctuations during processing. Min: 0% and Max: 50% - !! Default slippage: 0% !!",
             "example": 0,
             "schema": {
               "type": "number"
@@ -265,7 +265,7 @@
             }
           },
           "400": {
-            "description": "One of the following errors: <br><br>Insufficient liquidity<br>Cannot estimate<br>You may not have enough METIS balance for gas fee<br>tokenInAddress cannot be equals to tokenOutAddress<br>Cannot estimate. Don't forget about miner fee. Try to leave the buffer of METIS for gas<br>Not enough balance<br>Not enough allowance",
+            "description": "One of the following errors: \"Insufficient liquidity\", \"Cannot estimate\", \"You may not have enough METIS balance for gas fee\", \"tokenInAddress cannot be equals to tokenOutAddress\", \"Cannot estimate. Don't forget about miner fee. Try to leave the buffer of METIS for gas\", \"Not enough balance\", \"Not enough allowance\"",
             "content": {
               "application/json": {
                 "schema": {
@@ -347,8 +347,14 @@
               "fromTokenAmount": {
                 "type": "string"
               },
+              "fromTokenAmountNumber": {
+                "type": "number"
+              },
               "toTokenAmount": {
                 "type": "string"
+              },
+              "toTokenAmountNumber": {
+                "type": "number"
               },
               "toTokenNativeAmount": {
                 "type": "string"
@@ -509,11 +515,17 @@
           "fromTokenAmount": {
             "type": "string"
           },
+          "fromTokenAmountNumber": {
+            "type": "number"
+          },
           "toTokenAddress": {
             "type": "string"
           },
           "toTokenAmount": {
             "type": "string"
+          },
+          "toTokenAmountNumber": {
+            "type": "number"
           },
           "tx": {
             "type": "object",

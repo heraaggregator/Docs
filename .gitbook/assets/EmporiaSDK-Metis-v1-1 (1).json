@@ -347,14 +347,8 @@
               "fromTokenAmount": {
                 "type": "string"
               },
-              "fromTokenAmountNumber": {
-                "type": "number"
-              },
               "toTokenAmount": {
                 "type": "string"
-              },
-              "toTokenAmountNumber": {
-                "type": "number"
               },
               "toTokenNativeAmount": {
                 "type": "string"
@@ -515,17 +509,11 @@
           "fromTokenAmount": {
             "type": "string"
           },
-          "fromTokenAmountNumber": {
-            "type": "number"
-          },
           "toTokenAddress": {
             "type": "string"
           },
           "toTokenAmount": {
             "type": "string"
-          },
-          "toTokenAmountNumber": {
-            "type": "number"
           },
           "tx": {
             "type": "object",
