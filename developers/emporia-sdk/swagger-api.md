@@ -43,7 +43,7 @@ Design, describe, and document your API on the first open source editor supporti
 ```
 // Example Query:
 
-GET https://pathfindersdk.hera.finance/allowance?account=0x0000Fee3F6eEB1Ebddb23251A3918A55CAF03365&amount=1000000&tokenInAddress=0xEA32A96608495e54156Ae48931A7c20f0dcc1a21
+GET https://pathfindersdk.hera.finance/allowance?account=0x0000000000000000000000000000000000000000&amount=1000000&tokenInAddress=0xEA32A96608495e54156Ae48931A7c20f0dcc1a21
 ```
 {% endcode %}
 
@@ -57,7 +57,7 @@ GET https://pathfindersdk.hera.finance/allowance?account=0x0000Fee3F6eEB1Ebddb23
 ```
 // Example Query:
 
-GET https://pathfindersdk.hera.finance/quote?account=0x0000Fee3F6eEB1Ebddb23251A3918A55CAF03365&tokenInAddress=0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000&tokenInChainId=1088&tokenOutAddress=0xEA32A96608495e54156Ae48931A7c20f0dcc1a21&tokenOutChainId=1088&amount=100000000000000000000&type=exactIn
+GET https://pathfindersdk.hera.finance/quote?account=0x0000000000000000000000000000000000000000&tokenInAddress=0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000&tokenInChainId=1088&tokenOutAddress=0xEA32A96608495e54156Ae48931A7c20f0dcc1a21&tokenOutChainId=1088&amount=100000000000000000000&type=exactIn
 ```
 {% endcode %}
 
@@ -71,6 +71,6 @@ GET https://pathfindersdk.hera.finance/quote?account=0x0000Fee3F6eEB1Ebddb23251A
 ```
 // Example Query:
 
-GET https://pathfindersdk.hera.finance/swap?account=0x0000Fee3F6eEB1Ebddb23251A3918A55CAF03365&tokenInAddress=0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000&tokenInChainId=1088&tokenOutAddress=0xEA32A96608495e54156Ae48931A7c20f0dcc1a21&tokenOutChainId=1088&amount=100000000000000000000
+GET https://pathfindersdk.hera.finance/swap?account=0x0000000000000000000000000000000000000000&tokenInAddress=0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000&tokenInChainId=1088&tokenOutAddress=0xEA32A96608495e54156Ae48931A7c20f0dcc1a21&tokenOutChainId=1088&amount=100000000000000000000
 ```
 {% endcode %}
