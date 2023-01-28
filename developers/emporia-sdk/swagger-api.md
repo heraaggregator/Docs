@@ -1,6 +1,6 @@
 ---
 description: EmporiaSDK Swagger API - v1.1
-cover: ../../.gitbook/assets/cover-gitbook2.jpg
+cover: ../../.gitbook/assets/cover-gitbook2 (1).jpg
 coverY: 0
 ---
 

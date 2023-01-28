@@ -1,6 +1,6 @@
 ---
 description: AI Driven Trade Mining
-cover: .gitbook/assets/cover-gitbook2 (1).jpg
+cover: .gitbook/assets/cover-gitbook-token (1).jpg
 coverY: 0
 ---
 

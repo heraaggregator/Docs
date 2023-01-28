@@ -14,8 +14,8 @@
 ***
 
 * [Roadmap](roadmap.md)
-* [Staking Portal](staking-portal.md)
 * [Trade Mining](trade-mining.md)
+* [Staking Portal](staking-portal.md)
 
 ## Hera Token
 
