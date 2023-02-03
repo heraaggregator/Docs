@@ -7,7 +7,7 @@ coverY: 0
 
 #### Our Tokenomics and Vesting Details <a href="#our-tokenomics-and-vesting-details" id="our-tokenomics-and-vesting-details"></a>
 
-![](../.gitbook/assets/tokenomics-noprice.jpg)
+![Hera Finance Tokenomics - Updated : "31.12.2022"](../.gitbook/assets/tokenomics-unlocked-03022023.jpg)
 
 
 
@@ -29,7 +29,7 @@ coverY: 0
 
 #### Token Release Schedule
 
-![](../.gitbook/assets/TokenReleaseSchedule.jpg)
+![Hera - Token Release Schedule](../.gitbook/assets/TokenReleaseSchedule.jpg)
 
 #### Token Release Schedule
 
