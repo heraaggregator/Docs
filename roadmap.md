@@ -49,7 +49,9 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 * [x] Core: Upgrade HCA Modules to v2.0
 * [x] Core: AI-Pathfinder v2.5 Upgrade
-* [ ] Core: Major-II Update for Offchain Load-Balancer
+* [x] Core: Major-II Update for Offchain Load-Balancer
+* [x] Core: Upgrade Executor Contracts on Metis
+* [ ] Launch: Hera Aggregator v2.5 'Beta' on Metis
 * [ ] Launch: Multichain Compatible :tada:
 * [ ] Launch: Hera Aggregator on Arbitrum
 * [ ] Core: FeeManager v2 Deployment for Arbitrum
