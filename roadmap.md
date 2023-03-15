@@ -51,7 +51,7 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [x] Core: AI-Pathfinder v2.5 Upgrade
 * [x] Core: Major-II Update for Offchain Load-Balancer
 * [x] Core: Upgrade Executor Contracts on Metis
-* [ ] Launch: Hera Aggregator v2.5 'Beta' on Metis
+* [x] Launch: Hera Aggregator v2.5 'Beta' on Metis
 * [ ] Launch: Multichain Compatible :tada:
 * [ ] Launch: Hera Aggregator on Arbitrum
 * [ ] Core: FeeManager v2 Deployment for Arbitrum
@@ -74,5 +74,5 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Core: All-In-One Access Swap Protocol
 
 {% hint style="success" %}
-_Last update: 09 Feb 2023_
+_Last update: 15 Mar 2023_
 {% endhint %}
