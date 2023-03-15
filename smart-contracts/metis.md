@@ -19,9 +19,9 @@
 
 > <mark style="color:green;">\*</mark>: Live
 >
-> <mark style="color:yellow;">\*</mark>: Not using on current version
+> <mark style="color:orange;">\*</mark>: Not using on current version - old
 >
-> <mark style="color:orange;">\*</mark>: Waiting for the feature to be launched
+> <mark style="color:yellow;">\*</mark>: Waiting for the feature to be launched
 
 {% hint style="success" %}
 Hera Aggregator v2.0 launched and now live! <img src="../.gitbook/assets/zero.png" alt="" data-size="line">
