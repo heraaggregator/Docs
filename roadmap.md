@@ -54,16 +54,16 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [x] Launch: Hera Aggregator v2.5 'Beta' on Metis
 * [ ] Launch: Multichain Compatible :tada:
 * [ ] Launch: Hera Aggregator on Arbitrum
-* [ ] Core: FeeManager v2 Deployment for Arbitrum
 
 #### Q2 / 2023
 
-* [ ] Launch: New Interface for Dex Aggregator Portal
-* [ ] Core: New Chains & AMMs
-* [ ] Core: AI Powered VaultManager
-* [ ] Hera: Governance & DAO
+* [ ] Core: Upgrade FeeManager to v2
 * [ ] Features: Hera Analytics Dashboard
 * [ ] Features: Live Stats for Aggregator
+* [ ] Core: New Chains & AMMs
+* [ ] Launch: New Interface for Dex Aggregator Portal
+* [ ] Core: AI Powered VaultManager
+* [ ] Hera: Governance & DAO
 
 #### Q3-Q4 / 2023
 
@@ -74,5 +74,5 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Core: All-In-One Access Swap Protocol
 
 {% hint style="success" %}
-_Last update: 15 Mar 2023_
+_Last update: 03/27/2023_
 {% endhint %}
