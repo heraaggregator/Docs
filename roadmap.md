@@ -73,6 +73,6 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Core: Multi Token Aggregator
 * [ ] Core: All-In-One Access Swap Protocol
 
-{% hint style="success" %}
-_Last update: 03/27/2023_
-{% endhint %}
+```
+// Last update: 03/27/2023
+```
