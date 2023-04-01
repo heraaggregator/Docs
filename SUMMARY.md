@@ -5,9 +5,9 @@
 
 ## Features
 
-* [Hera Guard](features/hera-guard.md)
-* [Multichain Compatible](features/multichain-compatible.md)
 * [AI Powered Pathfinder](features/ai-powered-pathfinder.md)
+* [Multichain Compatible](features/multichain-compatible.md)
+* [Hera Guard](features/hera-guard.md)
 * [Swap Fee Distribution](features/swap-fee-distribution.md)
 * [Utility Token](features/utility-token.md)
 
@@ -33,6 +33,7 @@
 * [Metis](smart-contracts/metis.md)
 * [Arbitrum](smart-contracts/arbitrum.md)
 * [Avalanche](smart-contracts/avalanche.md)
+* [Base](smart-contracts/avalanche-1.md)
 * [BNB Chain](smart-contracts/bnb-chain.md)
 * [Ethereum](smart-contracts/ethereum.md)
 * [Fantom](smart-contracts/fantom.md)
