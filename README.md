@@ -1,6 +1,6 @@
 # Welcome
 
-> Hera Aggregator v2.0 launched and now live!
+> <mark style="color:green;">**Hera Aggregator v2.5 now live!**</mark>
 
 Hera is an AI-powered multichain dex aggregator offering the widest range of tokens and the best route discovery between any token pairs.
 
@@ -41,7 +41,7 @@ Developing can be difficult at times. On our end, we aim to make creating a supe
 * Providing various methods of accessing the swap, so all apps, dapps, and programs can use it seamlessly
 * Providing updated liquidity sources, token lists, and possible UX improvements as soon as possible.
 
-> EmporiaSDK has been successfully released! [<mark style="color:green;">**Check Now!**</mark>](developers/emporia-sdk/)<mark style="color:green;">****</mark>
+> EmporiaSDK has been successfully released! [<mark style="color:green;">**Check Now!**</mark>](developers/emporia-sdk/)
 
 {% content-ref url="developers/emporia-sdk/" %}
 [emporia-sdk](developers/emporia-sdk/)

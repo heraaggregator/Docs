@@ -21,9 +21,8 @@ Functionality Explained:
 * **HeraPower:** (Under Development): Participants will receive swap fee reductions based on their level of interaction and commitment to the ecosystem. This feature is exclusive to Metis Layer2.
 
 {% hint style="success" %}
-### **Single staking is live now!**&#x20;
-
-Staking Portal: **** [<mark style="color:green;">**staking.hera.finance**</mark>](https://staking.hera.finance/)<mark style="color:green;">****</mark>\ <mark style="color:green;">****</mark>Stake your tokens to earn real yield!
+Staking Portal: [<mark style="color:green;">**staking.hera.finance**</mark>](https://staking.hera.finance/)\
+Stake your tokens to earn real yield!
 {% endhint %}
 
 {% hint style="info" %}

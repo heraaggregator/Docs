@@ -11,7 +11,7 @@ Sometimes it interacts directly with a single AMM to find the best route. Depend
 
 ![](.gitbook/assets/overview-friendly.jpg)
 
-Hera has an artificial intelligence powered off-chain calculation program that creates routes. The AI makes 252,000+ calculation attempts on each query. It finds all liquidity pools and creates routes without over draft scenarios.
+Hera has an artificial intelligence powered off-chain calculation program that creates routes. The AI makes 750,000+ calculation attempts on each query. It finds all liquidity pools and creates routes without over draft scenarios.
 
 It compiles all routes and approves them in a single transaction safely and efficiently.
 
