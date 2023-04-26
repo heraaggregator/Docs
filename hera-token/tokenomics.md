@@ -25,7 +25,13 @@ coverY: 0
 | Liquidity Incentives    |   8,00%  |   800.000  | 62,5% at TGE, then vesting for 24m           |
 | Total:                  |  100,00% | 10.000.000 |                                              |
 
-####
+<details>
+
+<summary>Circulation Supply API</summary>
+
+URL: [https://supply.hera.finance/v1.0/supply/circulation](https://supply.hera.finance/v1.0/supply/circulation)
+
+</details>
 
 #### Token Release Schedule
 
