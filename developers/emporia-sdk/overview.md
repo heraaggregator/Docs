@@ -13,3 +13,7 @@ Swagger API gives access to 3rd parties to find the best swap rate. This enables
 {% content-ref url="swagger-api.md" %}
 [swagger-api.md](swagger-api.md)
 {% endcontent-ref %}
+
+{% content-ref url="swagger-api-arbitrum.md" %}
+[swagger-api-arbitrum.md](swagger-api-arbitrum.md)
+{% endcontent-ref %}

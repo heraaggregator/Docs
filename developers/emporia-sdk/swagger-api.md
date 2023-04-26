@@ -6,7 +6,7 @@ coverY: 0
 
 # Swagger API
 
-## Hera Aggregation Protocol API
+## Hera Dex Aggregator - Swap Protocol API
 
 ### Metis Mainnet Release
 
@@ -35,7 +35,7 @@ Design, describe, and document your API on the first open source editor supporti
 
 #### Allowance&#x20;
 
-{% swagger src="../../.gitbook/assets/EmporiaSDK-Metis-v1-1.json" path="/allowance" method="get" %}
+{% swagger src="../../.gitbook/assets/EmporiaSDK-Metis-v1-1.json" path="/allowance" method="get" expanded="true" %}
 [EmporiaSDK-Metis-v1-1.json](../../.gitbook/assets/EmporiaSDK-Metis-v1-1.json)
 {% endswagger %}
 
@@ -49,7 +49,7 @@ GET https://pathfindersdk.hera.finance/allowance?account=0x000000000000000000000
 
 #### Quote (Pathfinder)
 
-{% swagger src="../../.gitbook/assets/EmporiaSDK-Metis-v1-1.json" path="/quote" method="get" %}
+{% swagger src="../../.gitbook/assets/EmporiaSDK-Metis-v1-1.json" path="/quote" method="get" expanded="true" %}
 [EmporiaSDK-Metis-v1-1.json](../../.gitbook/assets/EmporiaSDK-Metis-v1-1.json)
 {% endswagger %}
 
@@ -63,7 +63,7 @@ GET https://pathfindersdk.hera.finance/quote?account=0x0000000000000000000000000
 
 #### Swap
 
-{% swagger src="../../.gitbook/assets/EmporiaSDK-Metis-v1-1.json" path="/swap" method="get" %}
+{% swagger src="../../.gitbook/assets/EmporiaSDK-Metis-v1-1.json" path="/swap" method="get" expanded="true" %}
 [EmporiaSDK-Metis-v1-1.json](../../.gitbook/assets/EmporiaSDK-Metis-v1-1.json)
 {% endswagger %}
 
