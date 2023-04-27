@@ -12,3 +12,11 @@ coverY: 0
 {% content-ref url="swagger-api.md" %}
 [swagger-api.md](swagger-api.md)
 {% endcontent-ref %}
+
+{% content-ref url="swagger-api-arbitrum.md" %}
+[swagger-api-arbitrum.md](swagger-api-arbitrum.md)
+{% endcontent-ref %}
+
+{% content-ref url="examples.md" %}
+[examples.md](examples.md)
+{% endcontent-ref %}
