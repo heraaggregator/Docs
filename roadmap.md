@@ -72,16 +72,12 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Features: Live Stats for Aggregator
 * [ ] Hera: Governance & DAO
 
-#### Q4 / 2023
+#### Q4 / 2023 - Q1 / 2024
 
-* Core: AI Powered VaultManager
 * Core: Limit Order Protocol
 * Core: Multi Token Aggregator
 * Launch: Hera Aggregator v3
-
-#### Q1 / 2024
-
-* Core: Anychain Dex Aggregator ✨
+* Core: **Anychain** Dex Aggregator ✨
 * Core: Double-Side Swap
 
 ```
