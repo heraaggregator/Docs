@@ -8,11 +8,12 @@ Total deployment and working progress:\
 {% endhint %}
 
 **Chain:** Arbitrum\
-**Version:** 2.7.1 Beta
+**Version:** 2.7 - Beta
 
-| Name                   | Contract Address                                                                                 |
-| ---------------------- | ------------------------------------------------------------------------------------------------ |
-| HeraAggregator: Router | <img src="../.gitbook/assets/34338d26023e5515f6cc8969aa027bca_w200.gif" alt="" data-size="line"> |
-| Hera Executor          | <img src="../.gitbook/assets/34338d26023e5515f6cc8969aa027bca_w200.gif" alt="" data-size="line"> |
-| Hera Fee Sequencer     | <img src="../.gitbook/assets/34338d26023e5515f6cc8969aa027bca_w200.gif" alt="" data-size="line"> |
-| AI VaultManager        | <img src="../.gitbook/assets/34338d26023e5515f6cc8969aa027bca_w200.gif" alt="" data-size="line"> |
+| Name                     | Contract Address                                                                                                     |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| HeraAggregatorV2: Router | [0x0000000000924fb1969e719edeD2feD54AFB183A](https://arbiscan.io/address/0x0000000000924fb1969e719edeD2feD54AFB183A) |
+| Fee Sequencer            |                                                                                                                      |
+| Hera Executor v2.5       |                                                                                                                      |
+| Deployer MultiSig        | [0xCA0dfC4e1935fFa0019AA760DB0564b8CDD96e6E](https://arbiscan.io/address/0xCA0dfC4e1935fFa0019AA760DB0564b8CDD96e6E) |
+| HeraSecurity Timelock    | [0xCE3759244610Fc69F95db143338c9ED0Dc356fd0](https://arbiscan.io/address/0xCE3759244610Fc69F95db143338c9ED0Dc356fd0) |
