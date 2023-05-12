@@ -19,7 +19,7 @@ Each automated market maker has a certain slippage interval determined by their 
 * Under Hera Protection <img src="../.gitbook/assets/zero.png" alt="" data-size="line">
 
 {% hint style="success" %}
-Zero slippage feature is optional. Transactions may fail in chains with very fast price volatility. So you can also use slippage options.
+**Zero slippage feature is optional.** Transactions may fail in chains with very fast price volatility. So you can also use slippage options.
 {% endhint %}
 
 ![](../.gitbook/assets/heraguard2.jpg)

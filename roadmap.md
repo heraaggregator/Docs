@@ -50,30 +50,40 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [x] Core: Upgrade HCA Modules to v2.0
 * [x] Core: AI-Pathfinder v2.5 Upgrade
 * [x] Core: Major-II Update for Offchain Load-Balancer
-* [x] Core: Upgrade Executor Contracts on Metis
+* [x] Core: Upgrade Executor Contracts
 * [x] Launch: Hera Aggregator v2.5 'Beta' on Metis
 
 #### Q2 / 2023
 
-* [ ] Launch: Multichain Compatible :tada:  _(coming soon)_
-* [ ] Launch: Hera Aggregator on Arbitrum _(coming soon)_
+* [x] Core: Upgrade Hera Core to v2.7 (beta)
+* [x] Core: Upgrade HCA Modules to v3.0
+* [ ] Launch: Hera Aggregator on Arbitrum (core v2.7)
+* [ ] Launch: Hera Aggregator on Metis (core v2.7)
+* [ ] Core: Upgrade Emporia SDK - Multichain
 * [ ] Core: Upgrade FeeManager
 * [ ] Features: Hera Analytics Dashboard
+
+#### Q3 / 2023
+
+* [ ] Core: New Chain Integrations
+* [ ] Core: New Protocol Integrations
+* [ ] Features: AI Powered VaultManager
+* [ ] Launch: New Interface for Hera dApp
 * [ ] Features: Live Stats for Aggregator
-* [ ] Core: New Chains & AMMs
-* [ ] Core: AI Powered VaultManager
-
-#### Q3-Q4 / 2023
-
-* [ ] Launch: New Interface for Dex Aggregator Portal
 * [ ] Hera: Governance & DAO
-* [ ] Core: Limit Order Protocol
-* [ ] Core: Multi Token Aggregator
-* [ ] Launch: Hera Aggregator v3
-* [ ] Core: Crosschain Dex Aggregator
 
+#### Q4 / 2023
 
+* Core: AI Powered VaultManager
+* Core: Limit Order Protocol
+* Core: Multi Token Aggregator
+* Launch: Hera Aggregator v3
+
+#### Q1 / 2024
+
+* Core: Anychain Dex Aggregator ✨
+* Core: Double-Side Swap
 
 ```
-// Last update: 04/08/2023
+// Last update: 12 May 2023
 ```
