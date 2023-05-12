@@ -3,8 +3,8 @@
 ### Hera Aggregator Contracts on Arbitrum <a href="#undefined" id="undefined"></a>
 
 {% hint style="info" %}
-Total deployment and working progress:\
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓░  **98%**
+Total deployment progress:\
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓░  **99%**
 {% endhint %}
 
 **Chain:** Arbitrum\
