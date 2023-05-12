@@ -77,6 +77,7 @@ The roadmap is constantly updated in terms of the development of the project. We
 * Core: Limit Order Protocol
 * Core: Multi Token Aggregator
 * Launch: Hera Aggregator v3
+* Features: Anychain Messenger Protocol
 * Core: **Anychain** Dex Aggregator ✨
 * Core: Double-Side Swap
 
