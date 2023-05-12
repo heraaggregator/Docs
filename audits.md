@@ -7,8 +7,7 @@ coverY: 0
 
 **Your security is our priority!**
 
-An independent audit is always important. Hera Aggregator V1 was audited by **Armors Labs**.&#x20;
-
+An independent audit is always important.\
 Now, **Hera Aggregator V2** upgrade has been audited by [**HashEx**](https://hashex.org)**.**
 
 <figure><img src=".gitbook/assets/audit-hashex.jpg" alt=""><figcaption></figcaption></figure>
@@ -17,7 +16,7 @@ Now, **Hera Aggregator V2** upgrade has been audited by [**HashEx**](https://has
 
 ### <mark style="color:green;">Active: Hera Aggregator V2 Contracts</mark> <a href="#undefined" id="undefined"></a>
 
-Audit results: <mark style="color:green;">**Passed**</mark> <img src=".gitbook/assets/zero.png" alt="" data-size="line"><mark style="color:green;">****</mark>
+Audit results: <mark style="color:green;">**Passed**</mark> <img src=".gitbook/assets/zero.png" alt="" data-size="line">
 
 * HeraAggregatorV2 (Router): **Passed** <mark style="color:green;">✅</mark>
 * HeraFeeSequencer: **Passed** <mark style="color:green;">✅</mark>
