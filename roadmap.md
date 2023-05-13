@@ -57,7 +57,7 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 * [x] Core: Upgrade Hera Core to v2.7 (beta)
 * [x] Core: Upgrade HCA Modules to v3.0
-* [ ] Launch: Hera Aggregator on Arbitrum (core v2.7)
+* [x] Launch: Hera Aggregator on Arbitrum (core v2.7)
 * [ ] Launch: Hera Aggregator on Metis (core v2.7)
 * [ ] Core: Upgrade Emporia SDK - Multichain
 * [ ] Core: Upgrade FeeManager
