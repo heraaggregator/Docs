@@ -1,11 +1,6 @@
-# 🟡 Arbitrum
+# 🟢 Arbitrum
 
 ### Hera Aggregator Contracts on Arbitrum <a href="#undefined" id="undefined"></a>
-
-{% hint style="info" %}
-Total deployment progress:\
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓░  **99%**
-{% endhint %}
 
 **Chain:** Arbitrum\
 **Version:** 2.7 - Beta

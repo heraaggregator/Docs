@@ -31,7 +31,7 @@
 ## Smart Contracts
 
 * [🟢 Metis](smart-contracts/metis.md)
-* [🟡 Arbitrum](smart-contracts/arbitrum.md)
+* [🟢 Arbitrum](smart-contracts/arbitrum.md)
 * [⚪ Avalanche](smart-contracts/avalanche.md)
 * [⚪ Base](smart-contracts/avalanche-1.md)
 * [⚪ BNB Chain](smart-contracts/bnb-chain.md)
