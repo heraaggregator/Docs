@@ -62,10 +62,10 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Launch: Hera Aggregator on Metis (core v2.7)
 * [ ] Core: Upgrade Emporia SDK - Multichain
 * [ ] Features: Hera Analytics Dashboard
-* [ ] Core: New Fee Model
 
 #### Q3 / 2023
 
+* [ ] Core: New Fee Model
 * [ ] Core: New Chain Integrations
 * [ ] Core: New Protocol Integrations
 * [ ] Features: AI Powered VaultManager
