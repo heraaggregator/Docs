@@ -79,7 +79,7 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Hera: Governance & DAO
 * [ ] Launch: Hera Aggregator v3 :tada:
 
-#### Q1 / 2024
+#### Q1-Q2 / 2024
 
 * [ ] Features: Interchain Messenger Protocol
 * [ ] Core: **Interchain** Dex Aggregator ✨
