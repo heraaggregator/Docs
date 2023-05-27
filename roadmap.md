@@ -12,7 +12,7 @@ The roadmap is constantly updated in terms of the development of the project. We
 #### Q1 / 2022
 
 * [x] Branding Creation
-* [x] Live: Website and Doc's :tada:
+* [x] Live: Website and Docs :tada:
 * [x] Establishment of the Early Community
 * [x] Smart Contracts and Multihops ready
 * [x] Testnet: Hera Dex Aggregator
@@ -65,23 +65,27 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 #### Q3 / 2023
 
-* [ ] Core: New Fee Model
 * [ ] Core: New Chain Integrations
-* [ ] Core: New Protocol Integrations
 * [ ] Features: AI Powered VaultManager
 * [ ] Launch: New Interface for Hera dApp
 * [ ] Features: Live Stats for Aggregator
+* [ ] Core: New Fee Model
+
+#### Q4 / 2023
+
+* [ ] Core: New Chain Integrations
+* [ ] Core: Limit Order Protocol
+* [ ] Core: Multi Token Aggregator
 * [ ] Hera: Governance & DAO
+* [ ] Launch: Hera Aggregator v3 :tada:
 
-#### Q4 / 2023 - Q1 / 2024
+#### Q1 / 2024
 
-* Core: Limit Order Protocol
-* Core: Multi Token Aggregator
-* Launch: Hera Aggregator v3
-* Features: Anychain Messenger Protocol
-* Core: **Anychain** Dex Aggregator ✨
-* Core: Double-Side Swap
+* [ ] Features: Interchain Messenger Protocol
+* [ ] Core: **Interchain** Dex Aggregator ✨
+* [ ] Core: Double-Side Swap
+* [ ] Hera: Release Pathfinder-OS for developers
 
 ```
-// Last update: 12 May 2023
+// Last update: 27 May 2023
 ```
