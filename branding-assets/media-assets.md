@@ -7,7 +7,9 @@ coverY: 0
 
 ![](../.gitbook/assets/logoH-1.jpg) ![](../.gitbook/assets/logoH-2.jpg) ![](../.gitbook/assets/logoSet-2.jpg)
 
-![](<../.gitbook/assets/ai-powered-landing (2).jpg>) ![](<../.gitbook/assets/landingv2 (1).jpg>)
+<figure><img src="../.gitbook/assets/mantlecover.jpg" alt=""><figcaption></figcaption></figure>
+
+![](<../.gitbook/assets/landingv2 (1).jpg>) ![](<../.gitbook/assets/ai-powered-landing (2).jpg>)
 
 ![](<../.gitbook/assets/integrated-protocols-landing (1).jpg>)
 
