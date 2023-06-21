@@ -25,7 +25,7 @@ All required data is instantly accessed and converted to High Conversion Argumen
 
 The data needed to solve the equation are provided. It is then finalized using the HCA module powered by artificial intelligence. It is then forwarded to the next step to find the max output figure.
 
-#### 03. Find All Paths
+#### 03. **** Find All Paths
 
 It searches and finds all possible routes between two tokens and filters out unnecessary routes by filtering within certain criteria.
 
