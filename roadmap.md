@@ -57,35 +57,40 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 * [x] Core: Upgrade Hera Core to v2.7 (beta)
 * [x] Core: Upgrade HCA Modules to v3.0
-* [x] Launch: Hera Aggregator on Arbitrum (core v2.7)
-* [ ] Core: Offchain Scaling Modules Update
-* [ ] Launch: Hera Aggregator on Metis (core v2.7)
-* [ ] Core: Upgrade Emporia SDK - Multichain
-* [ ] Features: Hera Analytics Dashboard
+* [x] Launch: Arbitrum Release
+* [x] Launch: Hera Aggregator on Arbitrum (Pathfinder: v2.7.5)
+* [x] Core: Metis Release Upgrade (Pathfinder: v2.7.5)
+* [x] Core: Offchain Scaling Modules Update
+* [x] Core: AI Training Upgrades _(0bcf201d)_
 
 #### Q3 / 2023
 
+* [ ] Hera: Token Expansion Using OFT
 * [ ] Core: New Chain Integrations
-* [ ] Features: AI Powered VaultManager
-* [ ] Launch: New Interface for Hera dApp
+* [ ] Core: Upgrade Emporia SDK - Multichain
+* [ ] Integration of Hera into New Resources
 * [ ] Features: Live Stats for Aggregator
-* [ ] Core: New Fee Model
+* [ ] Features: Hera Analytics Dashboard
 
 #### Q4 / 2023
 
 * [ ] Core: New Chain Integrations
-* [ ] Core: Limit Order Protocol
-* [ ] Core: Multi Token Aggregator
+* [ ] Launch: New Interface for Hera dApp
+* [ ] Core: New Fee Model
 * [ ] Hera: Governance & DAO
 * [ ] Launch: Hera Aggregator v3 :tada:
+* [ ] Core: Limit Order Protocol
+
+
 
 #### Q1-Q2 / 2024
 
+* [ ] Features: AI Powered VaultManager
 * [ ] Features: Interchain Messenger Protocol
 * [ ] Core: **Interchain** Dex Aggregator ✨
 * [ ] Core: Double-Side Swap
 * [ ] Hera: Release Pathfinder-OS for developers
 
 ```
-// Last update: 27 May 2023
+// Last update: 30 Jun 2023
 ```
