@@ -65,11 +65,11 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 #### Q3 / 2023
 
+* [ ] Launch: Mantle Mainnet Release
 * [ ] Hera: Token Expansion Using OFT
 * [ ] Core: New Chain Integrations
 * [ ] Core: Upgrade Emporia SDK - Multichain
-* [ ] Integration of Hera into New Resources
-* [ ] Features: Live Stats for Aggregator
+* [ ] Core: Integration of Hera into New Resources
 * [ ] Features: Hera Analytics Dashboard
 
 #### Q4 / 2023
