@@ -98,5 +98,5 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Hera: Governance & DAO
 
 ```
-// Last update: 11 Jul 2023
+// Last update: 24 Aug 2023
 ```
