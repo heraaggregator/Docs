@@ -65,21 +65,25 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 #### Q3 / 2023
 
-* [ ] Launch: Mantle Mainnet Release
-* [ ] Hera: Token Expansion Using OFT
-* [ ] Core: New Chain Integrations
-* [ ] Core: Upgrade Emporia SDK - Multichain
-* [ ] Core: Integration of Hera into New Resources
-* [ ] Features: Hera Analytics Dashboard
+* [x] Core: Integration of Hera into New Liquidity Sources
+* [x] Core: Messenger Protocol Development (V3)
+* [x] Upgrade: Deep Search Model (V3)
+* [x] Rebuilding Pathfinder Architecture from Scratch (V3)
+* [ ] Core: Hera Token Contracts Migration to OFT Model
+* [ ] Core: Deployment of the New Token Model
+* [ ] Features: Omnichain Staking Portal
+* [ ] Features: Bridge Portal
+* [ ] Core: Token Expansion to New Chain
 
 #### Q4 / 2023
 
 * [ ] Core: New Chain Integrations
-* [ ] Launch: New Interface for Hera dApp
+* [ ] Features: Dynamic Liquidity Management Robot (Beta)
 * [ ] Core: New Fee Model
-* [ ] Hera: Governance & DAO
-* [ ] Launch: Hera Aggregator v3 :tada:
-* [ ] Core: Limit Order Protocol
+* [ ] Launch: New Interface for Hera dApp
+* [ ] Features: Hera Analytics Dashboard
+* [ ] Launch: Hera Aggregator V3 👀
+* [ ] Core: Upgrade Emporia SDK for Multichain
 
 
 
@@ -90,7 +94,9 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Core: **Interchain** Dex Aggregator ✨
 * [ ] Core: Double-Side Swap
 * [ ] Hera: Release Pathfinder-OS for developers
+* [ ] Core: Limit Order Protocol
+* [ ] Hera: Governance & DAO
 
 ```
-// Last update: 30 Jun 2023
+// Last update: 11 Jul 2023
 ```
