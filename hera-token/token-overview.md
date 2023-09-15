@@ -19,7 +19,7 @@ Total Supply: **10.000.000**\
 Decimal: **18**\
 Token Contract: **0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE**\
 \
-Token Explorer URL: [https://andromeda-explorer.metis.io/token/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE](https://andromeda-explorer.metis.io/token/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE)
+Token Explorer URL: [https://explorer.metis.io/token/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE](https://explorer.metis.io/token/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE)
 
 #### Hera Token - Utility Areas
 
