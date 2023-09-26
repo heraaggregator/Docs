@@ -68,7 +68,7 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [x] Core: Integration of Hera into New Liquidity Sources
 * [x] Core: Messenger Protocol Development (V3)
 * [x] Upgrade: Deep Search Model (V3)
-* [x] Rebuilding Pathfinder Architecture from Scratch (V3)
+* [x] Core: Rebuilding Pathfinder Architecture from Scratch (V3)
 * [ ] Core: Hera Token Contracts Migration to OFT Model
 * [ ] Core: Deployment of the New Token Model
 * [ ] Features: Omnichain Staking Portal
@@ -77,26 +77,27 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 #### Q4 / 2023
 
-* [ ] Core: New Chain Integrations
 * [ ] Features: Dynamic Liquidity Management Robot (Beta)
 * [ ] Core: New Fee Model
-* [ ] Launch: New Interface for Hera dApp
 * [ ] Features: Hera Analytics Dashboard
-* [ ] Launch: Hera Aggregator V3 👀
-* [ ] Core: Upgrade Emporia SDK for Multichain
+* [ ] Core: LLM Core Upgrade
+* [ ] Core: Update HCA Modules
+* [ ] Launch: Hera Aggregator V3 - Alpha for Interchain
 
+#### Q1 / 2024
 
+* [ ] Launch: New Interface for Hera dApp
+* [ ] Features: Interchain Messenger Protocol
+* [ ] Core: **Interchain** Dex Aggregator ✨
+* [ ] Core: Emporia SDK for Interchain
 
 #### Q1-Q2 / 2024
 
 * [ ] Features: AI Powered VaultManager
-* [ ] Features: Interchain Messenger Protocol
-* [ ] Core: **Interchain** Dex Aggregator ✨
-* [ ] Core: Double-Side Swap
 * [ ] Hera: Release Pathfinder-OS for developers
 * [ ] Core: Limit Order Protocol
 * [ ] Hera: Governance & DAO
 
 ```
-// Last update: 24 Aug 2023
+// Last update: 26 Sep 2023
 ```
