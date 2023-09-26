@@ -78,23 +78,28 @@ The roadmap is constantly updated in terms of the development of the project. We
 #### Q4 / 2023
 
 * [ ] Features: Dynamic Liquidity Management Robot (Beta)
-* [ ] Core: New Fee Model
 * [ ] Features: Hera Analytics Dashboard
-* [ ] Core: LLM Core Upgrade
-* [ ] Core: Update HCA Modules
+* [ ] Upgrade: LLM Core Upgrade
+* [ ] Upgrade: Update HCA Modules
 * [ ] Launch: Hera Aggregator V3 - Alpha for Interchain
+* [ ] Feature: New Generation Price Aggregator
+* [ ] Core: Onchain Data Optimization
 
 #### Q1 / 2024
 
 * [ ] Launch: New Interface for Hera dApp
+* [ ] Core: Data Management API
+* [ ] Core: Offchain Load Rebalance Modules (+AI)
 * [ ] Features: Interchain Messenger Protocol
 * [ ] Core: **Interchain** Dex Aggregator ✨
 * [ ] Core: Emporia SDK for Interchain
+* [ ] Core: New Fee Model
 
-#### Q1-Q2 / 2024
+#### Q2 / 2024
 
 * [ ] Features: AI Powered VaultManager
-* [ ] Hera: Release Pathfinder-OS for developers
+* [ ] Hera: Release Pathfinder-VM for developers
+* [ ] Core: Gasless Trade on Interchain
 * [ ] Core: Limit Order Protocol
 * [ ] Hera: Governance & DAO
 
