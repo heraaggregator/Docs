@@ -27,3 +27,9 @@ Token Explorer URL: [https://explorer.metis.io/token/0x6F05709bc91Bad933346F9E15
 * Participate in the governance of the project (DAO)
 * Swap fee reduction -soon-
 * Earning airdrops based on dex aggregator usage -soon-
+
+#### New Hera OFT Token Details
+
+{% content-ref url="new-hera-oft-token.md" %}
+[new-hera-oft-token.md](new-hera-oft-token.md)
+{% endcontent-ref %}
