@@ -21,6 +21,16 @@ Token Contract: **0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE**\
 \
 Token Explorer URL: [https://explorer.metis.io/token/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE](https://explorer.metis.io/token/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE)
 
+
+
+**Hera Token now live on Ethereum, please check new token details:**
+
+{% content-ref url="new-hera-oft-token.md" %}
+[new-hera-oft-token.md](new-hera-oft-token.md)
+{% endcontent-ref %}
+
+***
+
 #### Hera Token - Utility Areas
 
 * Share protocol revenues using the Staking Portal
@@ -28,8 +38,3 @@ Token Explorer URL: [https://explorer.metis.io/token/0x6F05709bc91Bad933346F9E15
 * Swap fee reduction -soon-
 * Earning airdrops based on dex aggregator usage -soon-
 
-#### New Hera OFT Token Details
-
-{% content-ref url="new-hera-oft-token.md" %}
-[new-hera-oft-token.md](new-hera-oft-token.md)
-{% endcontent-ref %}
