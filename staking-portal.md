@@ -25,6 +25,10 @@ Staking Portal: [<mark style="color:green;">**staking.hera.finance**</mark>](htt
 Stake your tokens to earn real yield!
 {% endhint %}
 
-{% hint style="info" %}
-APY rates for staking vary in correlation to protocol revenue.
-{% endhint %}
+
+
+#### New Omnichain Staking Portal
+
+{% content-ref url="new-omnichain-staking.md" %}
+[new-omnichain-staking.md](new-omnichain-staking.md)
+{% endcontent-ref %}

@@ -16,7 +16,7 @@
 * [Roadmap](roadmap.md)
 * [Trade Mining](trade-mining.md)
 * [Staking Portal](staking-portal.md)
-* [New - Staking Portal ✔](new-staking-portal.md)
+* [New - Omnichain Staking ✔](new-omnichain-staking.md)
 
 ## Hera Token
 
