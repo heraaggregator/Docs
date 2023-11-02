@@ -69,40 +69,41 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [x] Core: Messenger Protocol Development (V3)
 * [x] Upgrade: Deep Search Model (V3)
 * [x] Core: Rebuilding Pathfinder Architecture from Scratch (V3)
-* [ ] Core: Hera Token Contracts Migration to OFT Model
-* [ ] Core: Deployment of the New Token Model
-* [ ] Features: Omnichain Staking Portal
-* [ ] Features: Bridge Portal
-* [ ] Core: Token Expansion to New Chain
 
 #### Q4 / 2023
 
+* [x] Core: Onchain Data Optimization _<mark style="color:blue;">for Interchain</mark>_
+* [x] Feature: New Generation Price Aggregator _<mark style="color:blue;">for Interchain</mark>_
+* [ ] Core: New HeraOFT Token Deployment
+* [ ] Features: Omnichain Staking Portal
+* [ ] Features: Bridge Portal
 * [ ] Features: Dynamic Liquidity Management Robot (Beta)
-* [ ] Features: Hera Analytics Dashboard
-* [ ] Upgrade: LLM Core Upgrade
-* [ ] Upgrade: Update HCA Modules
-* [ ] Launch: Hera Aggregator V3 - Alpha for Interchain
-* [ ] Feature: New Generation Price Aggregator
-* [ ] Core: Onchain Data Optimization
+* [ ] Upgrade: Update HCA Modules _<mark style="color:blue;">for Interchain</mark>_
+* [ ] Upgrade: LLM Core Upgrade _<mark style="color:blue;">for Interchain</mark>_
+* [ ] Core: Data Management API _<mark style="color:blue;">for Interchain</mark>_
 
 #### Q1 / 2024
 
-* [ ] Launch: New Interface for Hera dApp
-* [ ] Core: Data Management API
 * [ ] Core: Offchain Load Rebalance Modules (+AI)
 * [ ] Features: Interchain Messenger Protocol
+* [ ] Launch: Hera Aggregator V3 - _Closed beta for Interchain_
+* [ ] Launch: New App UI _<mark style="color:blue;">for Interchain</mark>_
 * [ ] Core: **Interchain** Dex Aggregator ✨
-* [ ] Core: Emporia SDK for Interchain
-* [ ] Core: New Fee Model
 
 #### Q2 / 2024
 
+* [ ] Core: Emporia SDK v2.0 _<mark style="color:blue;">for Interchain</mark>_
 * [ ] Features: AI Powered VaultManager
-* [ ] Hera: Release Pathfinder-VM for developers
+* [ ] Core: New Fee Model
+* [ ] Features: Hera Analytics Dashboard
 * [ ] Core: Gasless Trade on Interchain
-* [ ] Core: Limit Order Protocol
+
+#### Q3 / 2024
+
+* [ ] Hera: Release Pathfinder-VM for Developers
+* [ ] Core: Limit Order Protocol with Interchain Aggregation
 * [ ] Hera: Governance & DAO
 
 ```
-// Last update: 26 Sep 2023
+// Last update: 02 Nov 2023
 ```
