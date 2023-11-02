@@ -42,7 +42,6 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [x] Staking Portal: Update Single Staking Pool
 * [x] Core: EmporiaSDK - Hera Swagger API Release
 * [x] Core: Pathfinder Minor-II Update
-* [x] Research: Using LayerZero for Crosschain Messenger
 * [x] Features: ChainFinder by Hera Rebuilt
 
 #### Q1 / 2023
@@ -67,8 +66,11 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 * [x] Core: Integration of Hera into New Liquidity Sources
 * [x] Core: Messenger Protocol Development (V3)
+* [x] Research: Using LayerZero for Interchain
 * [x] Upgrade: Deep Search Model (V3)
 * [x] Core: Rebuilding Pathfinder Architecture from Scratch (V3)
+* [x] Research: Double-sided Messenger and Transactions
+* [x] Research: Interchain Compatibility
 
 #### Q4 / 2023
 
