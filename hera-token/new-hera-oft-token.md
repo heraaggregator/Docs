@@ -13,6 +13,14 @@ The token information for Hera Token on Metis will remain unchanged, and the con
 
 Additionally, a bridge has been launched with the Hera OFT Token to enable asset transfers between chains.
 
+### OFT Token Details
+
+Symbol: **HERA**\
+Name: **Hera Token**\
+Active Chains: **Ethereum**\
+Token Contract: #\
+Explorer: #
+
 #### Hera OFT Token Contracts
 
 <table><thead><tr><th width="326">Name</th><th>Address</th></tr></thead><tbody><tr><td>HeraOFTToken</td><td>#</td></tr><tr><td>HeraTokenProxy</td><td>#</td></tr></tbody></table>

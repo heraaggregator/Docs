@@ -13,13 +13,9 @@ We believe in a more active Hera Token usage model. We have done so by creating 
 
 Symbol: **HERA**\
 Name: **Hera Token**\
-Network: **Metis**\
-\
-Total Supply: **10.000.000**\
-Decimal: **18**\
+Chain: **Metis**\
 Token Contract: **0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE**\
-\
-Token Explorer URL: [https://explorer.metis.io/token/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE](https://explorer.metis.io/token/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE)
+Explorer: [https://explorer.metis.io/token/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE](https://explorer.metis.io/token/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE)
 
 
 
@@ -28,6 +24,14 @@ Token Explorer URL: [https://explorer.metis.io/token/0x6F05709bc91Bad933346F9E15
 {% content-ref url="new-hera-oft-token.md" %}
 [new-hera-oft-token.md](new-hera-oft-token.md)
 {% endcontent-ref %}
+
+### OFT Token Details
+
+Symbol: **HERA**\
+Name: **Hera Token**\
+Active Chains: **Ethereum**\
+Token Contract: #\
+Explorer: #
 
 ***
 

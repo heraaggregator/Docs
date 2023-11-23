@@ -79,33 +79,31 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Core: New HeraOFT Token Deployment
 * [ ] Features: Omnichain Staking Portal
 * [ ] Features: Bridge Portal
-* [ ] Features: Dynamic Liquidity Management Robot (Beta)
-* [ ] Upgrade: Update HCA Modules _<mark style="color:blue;">for Interchain</mark>_
-* [ ] Upgrade: LLM Core Upgrade _<mark style="color:blue;">for Interchain</mark>_
+* [x] Upgrade: Update HCA Modules _<mark style="color:blue;">for Interchain</mark>_
+* [x] Upgrade: LLM Core Upgrade _<mark style="color:blue;">for Interchain</mark>_
 * [ ] Core: Data Management API _<mark style="color:blue;">for Interchain</mark>_
 
-#### Q1 / 2024
+#### Cooking Developments:
 
 * [ ] Core: Offchain Load Rebalance Modules (+AI)
+* [ ] Features: Dynamic Liquidity Management Robot (Beta)
 * [ ] Features: Interchain Messenger Protocol
+* [ ] Deployments: Hera Aggregator V3 to major chains
 * [ ] Launch: Hera Aggregator V3 - _Closed beta for Interchain_
 * [ ] Launch: New App UI _<mark style="color:blue;">for Interchain</mark>_
 * [ ] Core: **Interchain** Dex Aggregator ✨
 
-#### Q2 / 2024
+#### Planned Developments:
 
 * [ ] Core: Emporia SDK v2.0 _<mark style="color:blue;">for Interchain</mark>_
 * [ ] Features: AI Powered VaultManager
 * [ ] Core: New Fee Model
 * [ ] Features: Hera Analytics Dashboard
 * [ ] Core: Gasless Trade on Interchain
-
-#### Q3 / 2024
-
 * [ ] Hera: Release Pathfinder-VM for Developers
 * [ ] Core: Limit Order Protocol with Interchain Aggregation
 * [ ] Hera: Governance & DAO
 
 ```
-// Last update: 02 Nov 2023
+// Last update: 23 Nov 2023
 ```

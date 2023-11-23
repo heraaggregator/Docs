@@ -32,7 +32,8 @@
 
 ## Smart Contracts
 
-* [🟢 Metis](smart-contracts/metis.md)
+* [🟤 LayerZero](smart-contracts/metis.md)
+* [🟢 Metis](smart-contracts/metis-1.md)
 * [🟢 Arbitrum](smart-contracts/arbitrum.md)
 * [⚪ Avalanche](smart-contracts/avalanche.md)
 * [⚪ Base](smart-contracts/avalanche-1.md)
