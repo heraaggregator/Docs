@@ -16,12 +16,13 @@
 * [Roadmap](roadmap.md)
 * [Trade Mining](trade-mining.md)
 * [Staking Portal](staking-portal.md)
-* [New - Omnichain Staking ✔](new-omnichain-staking.md)
+* [New - Omnichain Staking](new-omnichain-staking.md)
+* [About OFT Upgrade](about-oft-upgrade.md)
 
 ## Hera Token
 
 * [Token Overview](hera-token/token-overview.md)
-* [New - Hera OFT Token ✔](hera-token/new-hera-oft-token.md)
+* [New - Hera OFT Token](hera-token/new-hera-oft-token.md)
 * [Tokenomics](hera-token/tokenomics.md)
 * [Buy Hera Token](hera-token/buy-hera-token.md)
 
