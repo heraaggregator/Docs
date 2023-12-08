@@ -29,6 +29,6 @@ Stake your tokens to earn real yield!
 
 #### New Omnichain Staking Portal
 
-{% content-ref url="new-omnichain-staking.md" %}
-[new-omnichain-staking.md](new-omnichain-staking.md)
+{% content-ref url="omnichain-staking.md" %}
+[omnichain-staking.md](omnichain-staking.md)
 {% endcontent-ref %}

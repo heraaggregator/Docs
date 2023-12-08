@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/cover-gitbook-token.jpg
 coverY: 0
 ---
 
-# New - Hera OFT Token ✔
+# 🆕 Hera OFT Token
 
 The Hera OFT Token is a token model that is built and deployed on LayerZero. It is linked to the token on Metis and can be deployed to other chains as desired. The existing token contract will be valid on the Metis chain, and the newly deployed tokens alongside will utilize the OFT contract. This process confirms that the token contract on Metis will not change.
 

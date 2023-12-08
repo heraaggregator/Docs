@@ -3,7 +3,7 @@ cover: .gitbook/assets/cover-gitbook-token.jpg
 coverY: 0
 ---
 
-# About OFT Upgrade
+# 🆕 About OFT Upgrade
 
 This update covers three key features. First off, we'll be deploying the OFT Token. Don't worry, Metis' existing token address and liquidity won't change. However, we're introducing the Hera Token, set to deploy on Ethereum and subsequent chains, rocking a single contract address. After the Ethereum expansion, get ready for a HERA/USDC pool on Uniswap v3. All contract addresses will be revealed post-announcement; stick to the official details to avoid any confusion.
 

@@ -3,7 +3,7 @@ cover: .gitbook/assets/cover-gitbook-token.jpg
 coverY: 0
 ---
 
-# New - Omnichain Staking ✔
+# 🆕 Omnichain Staking
 
 Introducing the omni-chain Hera Staking Portal!&#x20;
 

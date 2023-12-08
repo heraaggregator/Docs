@@ -21,8 +21,8 @@ Explorer: [https://explorer.metis.io/token/0x6F05709bc91Bad933346F9E159f0D3FdBc2
 
 **Hera Token now live on Ethereum, please check new token details:**
 
-{% content-ref url="new-hera-oft-token.md" %}
-[new-hera-oft-token.md](new-hera-oft-token.md)
+{% content-ref url="hera-oft-token.md" %}
+[hera-oft-token.md](hera-oft-token.md)
 {% endcontent-ref %}
 
 ### OFT Token Details
