@@ -17,7 +17,7 @@ Function definitions and details:
 * **Unstake:** You can withdraw your assets from the staking pool.
 * **Claim:** Use the claim function to transfer your staking rewards to your wallet.
 * **Compound:** It's a quick solution to claim and restake your staking rewards.
-* Some more fetures coming soon ...
+* Some more features coming soon ...
 
 **Notice:**&#x20;
 
