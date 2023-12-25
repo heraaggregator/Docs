@@ -11,24 +11,27 @@ Token buybacks are made possible with protocol revenue earned through exchange f
 
 Staking is a utility that allows Hera token holders to share in socialized protocol revenue.
 
-
-
 Functionality Explained:
 
-* **Harvest:** Collects earned yield and sends it to your wallet
-* **Compound:** Collects earned yield and adds it to your staked base principal (this restarts the seven day lock period)
+* **Claim:** Collects earned yield and sends it to your wallet
+* **Compound:** Collects earned yield and adds it to your staked base principal.
+* **Auto Compound:** Coming soon...
 * **Staking Period:** The set time window rewards are obtainable. Date extensions are made regularly
 * **HeraPower:** (Under Development): Participants will receive swap fee reductions based on their level of interaction and commitment to the ecosystem. This feature is exclusive to Metis Layer2.
 
-{% hint style="success" %}
-Staking Portal: [<mark style="color:green;">**staking.hera.finance**</mark>](https://staking.hera.finance/)\
-Stake your tokens to earn real yield!
-{% endhint %}
+***
 
+### Move: New Omnichain Staking Portal ✔
 
+{% embed url="https://portal.hera.finance" %}
 
-#### New Omnichain Staking Portal
+Details for new staking portal 👇
 
 {% content-ref url="omnichain-staking.md" %}
 [omnichain-staking.md](omnichain-staking.md)
 {% endcontent-ref %}
+
+{% hint style="info" %}
+Old Staking Portal: [<mark style="color:green;">**staking.hera.finance**</mark>](https://staking.hera.finance/)\
+Stake your tokens to earn real yield!
+{% endhint %}

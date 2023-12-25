@@ -27,10 +27,9 @@ You will use the existing token for staking on Metis, while for new networks int
 
 ***
 
+{% embed url="https://portal.hera.finance" %}
+
 #### Omnichain Staking Contracts
 
-<table><thead><tr><th width="326">Name</th><th>Address</th></tr></thead><tbody><tr><td>HeraStakingProxy</td><td>#</td></tr><tr><td>HeraStakingLocal</td><td>#</td></tr></tbody></table>
+<table><thead><tr><th width="276">Name</th><th>Address</th></tr></thead><tbody><tr><td>HeraStakingProxy</td><td>0x1a404ca2f355141EB9Ef1d5fe872bFC8511f19e1</td></tr><tr><td>HeraStakingLocal</td><td>0x9abB8642ab4B184F2a56340C2766cdc0f357500E</td></tr></tbody></table>
 
-
-
-**Note:** The deployment phase has not been completed yet.

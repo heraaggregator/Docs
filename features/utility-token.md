@@ -19,7 +19,7 @@ In certain periods Hera tokens are purchased from the market at the rate determi
 
 More Hera Tokens can be earned by staking. Rewards are funded by protocol revenue. Therefore, APY rates are variable.
 
-{% embed url="https://staking.hera.finance" %}
+{% embed url="https://portal.hera.finance" %}
 
 #### 03. Swap Fee Reduce (soon)
 

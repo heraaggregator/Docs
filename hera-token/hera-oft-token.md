@@ -18,14 +18,20 @@ Additionally, a bridge has been launched with the Hera OFT Token to enable asset
 Symbol: **HERA**\
 Name: **Hera Token**\
 Active Chains: **Ethereum**\
-Token Contract: #\
-Explorer: #
+Token Contract: 0xA2c2C937333165d4c5f2dC5f31a43E1239FeCfeB\
+Explorer: [https://etherscan.io/token/0xA2c2C937333165d4c5f2dC5f31a43E1239FeCfeB](https://etherscan.io/token/0xA2c2C937333165d4c5f2dC5f31a43E1239FeCfeB)
 
 #### Hera OFT Token Contracts
 
-<table><thead><tr><th width="326">Name</th><th>Address</th></tr></thead><tbody><tr><td>HeraOFTToken</td><td>#</td></tr><tr><td>HeraTokenProxy</td><td>#</td></tr></tbody></table>
+<table><thead><tr><th width="259">Name</th><th>Address</th></tr></thead><tbody><tr><td>HeraOFTToken</td><td>0xA2c2C937333165d4c5f2dC5f31a43E1239FeCfeB</td></tr><tr><td>HeraTokenProxy</td><td>0x9C598Da94c840147C9a1eaBE1aE8DF750674ddF6</td></tr></tbody></table>
 
-**Note:** The deployment phase has not been completed yet.
+
+
+Buy Hera Token 👇
+
+{% content-ref url="buy-hera-token.md" %}
+[buy-hera-token.md](buy-hera-token.md)
+{% endcontent-ref %}
 
 {% hint style="danger" %}
 _Please beware of fake tokens and refrain from interacting with any unofficial contracts!_

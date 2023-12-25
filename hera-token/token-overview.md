@@ -30,8 +30,8 @@ Explorer: [https://explorer.metis.io/token/0x6F05709bc91Bad933346F9E159f0D3FdBc2
 Symbol: **HERA**\
 Name: **Hera Token**\
 Active Chains: **Ethereum**\
-Token Contract: #\
-Explorer: #
+Token Contract: 0xA2c2C937333165d4c5f2dC5f31a43E1239FeCfeB\
+Explorer: [https://etherscan.io/token/0xA2c2C937333165d4c5f2dC5f31a43E1239FeCfeB](https://etherscan.io/token/0xA2c2C937333165d4c5f2dC5f31a43E1239FeCfeB)
 
 ***
 
