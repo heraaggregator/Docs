@@ -68,26 +68,26 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [x] Core: Messenger Protocol Development (V3)
 * [x] Research: Using LayerZero for Interchain
 * [x] Upgrade: Deep Search Model (V3)
-* [x] Core: Rebuilding Pathfinder Architecture from Scratch (V3)
 * [x] Research: Double-sided Messenger and Transactions
-* [x] Research: Interchain Compatibility
 
 #### Q4 / 2023
 
+* [x] Research: Interchain Compatibility
 * [x] Core: Onchain Data Optimization _<mark style="color:blue;">for Interchain</mark>_
 * [x] Feature: New Generation Price Aggregator _<mark style="color:blue;">for Interchain</mark>_
 * [x] Core: New HeraOFT Token Deployment
 * [x] Features: Omnichain Staking Portal
 * [x] Features: Bridge Portal
 * [x] Upgrade: Update HCA Modules _<mark style="color:blue;">for Interchain</mark>_
-* [x] Upgrade: LLM Core Upgrade _<mark style="color:blue;">for Interchain</mark>_
-* [x] Core: Data Management API _<mark style="color:blue;">for Interchain</mark>_
 
 #### Q1 / 2024
 
-* [ ] _cooking...._
+* [ ] Core: Rebuilding Pathfinder Arch from Scratch (V3)
+* [ ] Upgrade: LLM Core Upgrade _<mark style="color:blue;">for Interchain</mark>_
+* [ ] Core: Data Management API _<mark style="color:blue;">for Interchain</mark>_
+* [ ] _cooking more ...._
 
-#### Cooking Developments:
+#### Ongoing Developments:
 
 * [ ] Core: Offchain Load Rebalance Modules (+AI)
 * [ ] Features: Dynamic Liquidity Management Robot (Beta)
