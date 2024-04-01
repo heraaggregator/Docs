@@ -91,6 +91,8 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 * [ ] _cooking ...._
 
+***
+
 #### Ongoing Developments:
 
 * [ ] Features: Interchain Messenger Protocol
