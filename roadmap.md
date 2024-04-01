@@ -89,14 +89,15 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 #### Q2 / 2024
 
-* [ ] Features: Token Quality Detector _<mark style="color:blue;">for v3 UI</mark>_
-* [ ] Core: Offchain Load Rebalance Modules (+AI)
-* [ ] Features: Interchain Messenger Protocol
-* [ ] Core: Hera Graph
-* [ ] _cooking more ...._
+* [ ] _cooking ...._
 
 #### Ongoing Developments:
 
+* [ ] Features: Interchain Messenger Protocol
+* [ ] Features: Token Quality Detector _<mark style="color:blue;">for v3 UI</mark>_
+* [ ] Core: Hera Graph
+* [ ] Core: Offchain Load Rebalance Modules (+AI)
+* [ ] Deployments: Hera Aggregator V3 to Metis & Arbitrum
 * [ ] Deployments: Hera Aggregator V3 to major chains
 * [ ] Launch: Hera Aggregator V3 - _Closed beta for Interchain_
 * [ ] Launch: New App UI _<mark style="color:blue;">for Interchain</mark>_
