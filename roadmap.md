@@ -82,16 +82,21 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 #### Q1 / 2024
 
-* [ ] Core: Rebuilding Pathfinder Arch from Scratch (V3)
-* [ ] Upgrade: LLM Core Upgrade _<mark style="color:blue;">for Interchain</mark>_
-* [ ] Core: Data Management API _<mark style="color:blue;">for Interchain</mark>_
+* [x] Core: Rebuilding Pathfinder Arch from Scratch (V3)
+* [x] Upgrade: LLM Core Upgrade _<mark style="color:blue;">for Interchain</mark>_
+* [x] Core: Data Management API _<mark style="color:blue;">for Interchain</mark>_
+* [x] Features: Dynamic Liquidity Management Robot (Beta)
+
+#### Q2 / 2024
+
+* [ ] Features: Token Quality Detector _<mark style="color:blue;">for v3 UI</mark>_
+* [ ] Core: Offchain Load Rebalance Modules (+AI)
+* [ ] Features: Interchain Messenger Protocol
+* [ ] Core: Hera Graph
 * [ ] _cooking more ...._
 
 #### Ongoing Developments:
 
-* [ ] Core: Offchain Load Rebalance Modules (+AI)
-* [ ] Features: Dynamic Liquidity Management Robot (Beta)
-* [ ] Features: Interchain Messenger Protocol
 * [ ] Deployments: Hera Aggregator V3 to major chains
 * [ ] Launch: Hera Aggregator V3 - _Closed beta for Interchain_
 * [ ] Launch: New App UI _<mark style="color:blue;">for Interchain</mark>_
