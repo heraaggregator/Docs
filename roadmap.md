@@ -89,6 +89,7 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 #### Q2 / 2024
 
+* [x] Core: Internal RPC Aggregator _(multichain support)_
 * [ ] _cooking ...._
 
 ***
