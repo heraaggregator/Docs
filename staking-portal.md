@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/cover-gitbook-token (3).jpg
+cover: .gitbook/assets/cover-gitbook-2024 (1).jpg
 coverY: 0
 ---
 

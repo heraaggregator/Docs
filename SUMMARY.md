@@ -6,10 +6,12 @@
 ## Features
 
 * [AI Powered Pathfinder](features/ai-powered-pathfinder.md)
-* [Multichain Compatible](features/multichain-compatible.md)
-* [Hera Guard](features/hera-guard.md)
-* [Swap Fee Distribution](features/swap-fee-distribution.md)
+* [Interoperability](features/ai-powered-pathfinder-1.md)
+* [Optimization](features/ai-powered-pathfinder-2.md)
+* [Chain Agnostic Core](features/ai-powered-pathfinder-3.md)
+* [Interchain](features/ai-powered-pathfinder-4.md)
 * [Utility Token](features/utility-token.md)
+* [Swap Fee Distribution](features/swap-fee-distribution.md)
 
 ***
 
@@ -29,7 +31,6 @@
 ***
 
 * [Audits](audits.md)
-* [Integrated Protocols](https://hera.finance/integrated-protocols)
 
 ## Smart Contracts
 

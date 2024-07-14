@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/cover-gitbook2 (1).jpg
+cover: .gitbook/assets/cover-gitbook-2024 (1).jpg
 coverY: 0
 ---
 
@@ -90,20 +90,27 @@ The roadmap is constantly updated in terms of the development of the project. We
 #### Q2 / 2024
 
 * [x] Core: Internal RPC Aggregator _(multichain support)_
-* [ ] _cooking ...._
+* [x] Core: Offchain Load Rebalance Modules (+AI)
+* [x] Core: Homogeneous Liquidity Approach
+* [x] Features: Token Quality Detector _<mark style="color:blue;">for v3 UI</mark>_
 
-***
+#### Q3 / 2024
+
+* [x] Hera Rebranding Release
+* [x] New Landing Website Deployment
+* [x] Announcement of the New Hera Vision
+* [ ] _cooking ...._
 
 #### Ongoing Developments:
 
-* [ ] Features: Interchain Messenger Protocol
-* [ ] Features: Token Quality Detector _<mark style="color:blue;">for v3 UI</mark>_
+* [ ] Core: Low Level Optimization for V3
 * [ ] Core: Hera Graph
-* [ ] Core: Offchain Load Rebalance Modules (+AI)
+* [ ] Launch: New App UI _<mark style="color:blue;">for V3</mark>_
 * [ ] Deployments: Hera Aggregator V3 to Metis & Arbitrum
 * [ ] Deployments: Hera Aggregator V3 to major chains
 * [ ] Launch: Hera Aggregator V3 - _Closed beta for Interchain_
-* [ ] Launch: New App UI _<mark style="color:blue;">for Interchain</mark>_
+* [ ] Features: Interchain Messenger Protocol
+* [ ] Launch: Update dApp UI _<mark style="color:blue;">for Interchain</mark>_
 * [ ] Core: **Interchain** Dex Aggregator ✨
 
 #### Planned Developments:
@@ -118,5 +125,5 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Hera: Governance & DAO
 
 ```
-// Last update: 1 Apr 2024
+// Last update: 14 July 2024
 ```

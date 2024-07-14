@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/cover-gitbook2 (1).jpg
+cover: .gitbook/assets/cover-gitbook-2024 (1).jpg
 coverY: 0
 ---
 
@@ -9,8 +9,6 @@ coverY: 0
 
 An independent audit is always important.\
 Now, **Hera Aggregator V2** upgrade has been audited by [**HashEx**](https://hashex.org)**.**
-
-<figure><img src=".gitbook/assets/audit-hashex.jpg" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://github.com/heraaggregator/HeraAggregatorV2-Contracts" %}
 

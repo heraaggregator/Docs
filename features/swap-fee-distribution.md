@@ -1,11 +1,9 @@
 ---
-cover: ../.gitbook/assets/cover-gitbook2 (1).jpg
+cover: ../.gitbook/assets/cover-gitbook-2024 (1).jpg
 coverY: 0
 ---
 
 # Swap Fee Distribution
-
-![](../.gitbook/assets/distribution-landing-min.jpg)
 
 Protocol's revenues from swap transactions are transferred to the Hera Treasury. AI-powered **VaultManager** handles the distribution of these revenues.
 
