@@ -11,7 +11,7 @@ Hera's interchain technology enables access to all onchain liquidity through a s
 
 > Maximize your DeFi potential with Hera's innovative interchain solutions.
 
-![](<../.gitbook/assets/landing (3).jpg>)
+![](../.gitbook/assets/landing-eth.jpg)
 
 As numerous new Layer 1 and Layer 2 solutions emerge, liquidity is distributed across different chains. This has caused significant issues in swap performance. The solution lies in running cross-chain communication protocols and core-pathfinder modules together.
 
