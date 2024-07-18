@@ -7,7 +7,7 @@ coverY: 0
 
 ### Modular Flexibility Across All Blockchains
 
-Hera's pathfinder core modules are engineered for modularity and adaptability, ensuring seamless integration with any blockchain architecture, including both EVM and Rust-based chains like Solana and Near.
+Hera's pathfinder core modules are engineered for modularity and adaptability, ensuring seamless integration with any blockchain architecture, including both EVM and Non-EVM chains like Solana etc.
 
 > Broad Compatibility, Limitless Potential
 

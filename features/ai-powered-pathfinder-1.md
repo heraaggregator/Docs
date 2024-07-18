@@ -5,7 +5,7 @@ coverY: 0
 
 # Interoperability
 
-### Connecting offchain power with onchain trustlessness.
+### Connecting offchain power with onchain trustless.
 
 > ```html
 > unified execution, unlimited possibilities
@@ -25,4 +25,4 @@ Today's blockchain technologies are not capable of handling complex transaction 
 
 One of the ultimate goals is to package Hera's core pathfinder model so that it can be deployed by anyone in the future, contributing to its processing power. This way, the community can directly support or benefit from this technology.
 
-<figure><img src="../.gitbook/assets/Interoperability-Hera-Finance.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Interoperability-Hera-Finance.png" alt=""><figcaption></figcaption></figure>

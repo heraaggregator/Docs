@@ -15,19 +15,19 @@ Hera Aggregator is built on a unique architecture with a pathfinder algorithm. O
 
 #### Homogeneous Liquidity
 
-Integrating with dozens of different market models, the pathfinder ensures nearly 100% convergence on accessible liquidity sources, creating flawless routing for execution. By homogenizing liquidity, our AI core provides a seamless trading experience, ensuring optimal rates for every transaction.
+Integrating with dozens of different market models, the pathfinder ensures nearly 99.99% convergence on accessible liquidity sources, creating flawless routing for execution. By homogenizing liquidity, our AI core provides a seamless trading experience, ensuring optimal rates for every transaction.
 
 #### Dynamic Routing
 
 For the best swap execution, our pathfinder can connect directly to a single liquidity asset or integrate dozens of sources into a single route. With multihop capabilities, it can insert additional token routes between tokens, breaking down the route for greater output. It also presents you with real-time on-chain arbitrage opportunities within the route, ensuring maximum efficiency and profitability.
 
-#### Chain Database
+#### Hera Data Repository
 
 The Core-AI's offchain modules fetch the necessary onchain data simultaneously with chain data. Integrated market makers, liquidity models, liquidity pools, tokens, and chain data are all served on a large database, encompassing both dynamic and static data. This comprehensive database ensures that our system remains up-to-date and highly efficient, providing seamless integration across multiple blockchain networks.
 
-#### Kubernetes Module
+#### Distributed Processing Module
 
-Employs Kubernetes for robust, scalable deployment and management of applications. This ensures that our platform remains stable and responsive, even under high demand.
+Utilizes the Distributed Processing Module for robust and scalable deployment and management of applications. This ensures our platform remains stable and responsive even under high demand.
 
 ***
 
