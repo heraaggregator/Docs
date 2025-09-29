@@ -10,6 +10,6 @@ We have listed the contract addresses for tokens and protocols deployed on Layer
 [hera-oft-token.md](../hera-token/hera-oft-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="../omnichain-staking.md" %}
-[omnichain-staking.md](../omnichain-staking.md)
+{% content-ref url="../general/omnichain-staking.md" %}
+[omnichain-staking.md](../general/omnichain-staking.md)
 {% endcontent-ref %}

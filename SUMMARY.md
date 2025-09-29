@@ -13,15 +13,18 @@
 * [Utility Token](features/utility-token.md)
 * [Swap Fee Distribution](features/swap-fee-distribution.md)
 
-***
-
-* [Roadmap](roadmap.md)
-
 ## Hera x Solana
 
 * [Overview](hera-x-solana/overview.md)
 * [How it works](hera-x-solana/how-it-works.md)
 * [Swap API](hera-x-solana/swap-api.md)
+
+## General
+
+* [Roadmap](general/roadmap.md)
+* [Trade Mining](general/trade-mining.md)
+* [Staking Portal](general/staking-portal.md)
+* [Omnichain Staking](general/omnichain-staking.md)
 
 ## Hera Token
 
@@ -33,9 +36,6 @@
 
 ***
 
-* [Trade Mining](trade-mining.md)
-* [Staking Portal](staking-portal.md)
-* [Omnichain Staking](omnichain-staking.md)
 * [Audits](audits.md)
 
 ## Smart Contracts
