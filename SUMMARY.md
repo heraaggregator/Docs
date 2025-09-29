@@ -25,6 +25,7 @@
 * [Trade Mining](general/trade-mining.md)
 * [Staking Portal](general/staking-portal.md)
 * [Omnichain Staking](general/omnichain-staking.md)
+* [Audits](general/audits.md)
 
 ## Hera Token
 
@@ -33,10 +34,6 @@
 * [Tokenomics](hera-token/tokenomics.md)
 * [Buy Hera Token](hera-token/buy-hera-token.md)
 * [🆕 About OFT Upgrade](hera-token/about-oft-upgrade.md)
-
-***
-
-* [Audits](audits.md)
 
 ## Smart Contracts
 
