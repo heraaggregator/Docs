@@ -5,6 +5,16 @@ coverY: 0
 
 # Welcome
 
+{% hint style="info" icon="signal-stream" %}
+## Hera V3 beta is finally on Solana
+
+During beta, you can jump into the interface, check routes and quotes, and feed us with your feedback. Execution will stay disabled for now, and both the pathfinder and the UI will keep getting better every single day.\
+\
+Bad routes, broken stuff, weird behavior, or anything you think should be improved, all of it is valuable.\
+\
+Take a look now: [**beta.hera.ag**](https://beta.hera.ag/)
+{% endhint %}
+
 Hera is an AI-powered multichain dex aggregator offering the widest range of tokens and the best route discovery between any token pairs.
 
 We aim to provide the friendliest UX for users and the most powerful tools for developers to allow them to access the best-in-class swap in their application, interface, or on-chain programs.

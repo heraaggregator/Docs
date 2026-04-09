@@ -13,11 +13,11 @@
 * [Utility Token](features/utility-token.md)
 * [Swap Fee Distribution](features/swap-fee-distribution.md)
 
-## Hera x Solana
+## hera.ag - Solana
 
-* [Overview](hera-x-solana/overview.md)
-* [How it works](hera-x-solana/how-it-works.md)
-* [Swap API](hera-x-solana/swap-api.md)
+* [Overview](hera.ag-solana/overview.md)
+* [How it works](hera.ag-solana/how-it-works.md)
+* [Swap API](hera.ag-solana/swap-api.md)
 
 ## General
 
@@ -41,12 +41,6 @@
 * [🟢 Metis](smart-contracts/metis-1.md)
 * [🟢 Arbitrum](smart-contracts/arbitrum.md)
 * [🟡 Solana](smart-contracts/arbitrum-1.md)
-* [⚪ Avalanche](smart-contracts/avalanche.md)
-* [⚪ Base](smart-contracts/avalanche-1.md)
-* [⚪ BNB Chain](smart-contracts/bnb-chain.md)
-* [⚪ Ethereum](smart-contracts/ethereum.md)
-* [⚪ Fantom](smart-contracts/fantom.md)
-* [⚪ Optimism](smart-contracts/optimism.md)
 
 ## Developers
 
