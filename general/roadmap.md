@@ -6,12 +6,37 @@ coverY: 0
 # Roadmap
 
 ```
-// Last update: 29 Sep 2025
+// Last update: 13 Apr 2026
 ```
 
 Blockchain is a living construct, so staying up to date is crucial.
 
 The roadmap is constantly updated in terms of the development of the project. We recommend that you visit this page frequently to keep track of changes.
+
+***
+
+#### `Hera x Solana [hera.ag]`
+
+* [x] Initiation of chain research and testing processes
+* [x] Improvements required for migration
+* [x] Upgrade of new v3 modules
+* [x] Configuration of the Hera v3
+* [x] Complete rewrite of the routing algorithms from scratch
+* [x] Optimization and management of the AI agents
+* [x] Interoperability improvements
+* [x] Building the offchain architecture and setting up Kubernetes
+* [x] Starting the training of the AI-native protocol
+* [x] Core: Release Hera.ag Interface
+* [x] Core: Launch Hera v3 beta - \[beta.hera.ag] ✅
+* [ ] Completing the training of the AI-native protocol and integrating it
+* [ ] Preparation of contracts
+* [ ] Improvements for fee model
+* [ ] Addition of security layers
+* [ ] Official audit for final smart contracts
+* [ ] Core: Hera v3 on mainnet (Solana) for hera.ag
+* [ ] Providing public and enterprise API access
+
+***
 
 #### Planned Developments:
 
@@ -23,13 +48,11 @@ The roadmap is constantly updated in terms of the development of the project. We
 #### Ongoing Developments:
 
 * [ ] Features: Hera Analytics Dashboard
-* [ ] Core: Hera Aggregator V3 on Metis & Arbitrum
-* [ ] Core: Hera Aggregator V3 on all major EVMs
+* [ ] Core: Hera V3 deployment - all major EVMs
 
 #### Interchain Stage:
 
 * [ ] Features: Interchain Messenger Protocol
-* [ ] Features: Gasless Trade
 * [ ] Launch: Emporia SDK v2.0&#x20;
 * [ ] Features: Limit Order Aggregation
 * [ ] Launch: Interchain dApp UI
@@ -37,29 +60,14 @@ The roadmap is constantly updated in terms of the development of the project. We
 
 ***
 
-#### H2 / 2025
+#### H1 / 2026
 
 * [x] Core: Quote & Request Sequencer w AWS
 * [x] Upgrade: AI integration into the RS/QS
 * [x] Upgrade: Deep Search Model for Solana
-* [ ] Core: Dynamic Pathfinder
-* [ ] Core: Degen Swap Portal (for tax-fee tokens)
-
-#### `Hera x Solana`
-
-* [x] Initiation of chain research and testing processes
-* [ ] Preparation of contracts
-* [ ] Upgrade of V3 modules
-* [ ] Improvements for fee model
-* [ ] Configuration of the pathfinder architecture
-* [ ] Addition of security layers
-* [ ] Completion of liquidity sources
-* [ ] Improvements required for migration
-* [ ] UI development
-* [ ] Launch of the testing phase
-* [ ] Providing public and enterprise API access
-* [ ] Official audit for final smart contracts
-* [ ] Deploy and launch Hera v3 (Solana) on hera.ag
+* [x] Completion of liquidity sources
+* [x] Core: Dynamic Pathfinder
+* [x] UI development and improvements
 
 #### H1 / 2025
 
