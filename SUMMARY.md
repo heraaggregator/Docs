@@ -13,11 +13,11 @@
 * [Utility Token](features/utility-token.md)
 * [Swap Fee Distribution](features/swap-fee-distribution.md)
 
-## hera.ag - Solana
+## Hera v3 - Solana
 
-* [Overview](hera.ag-solana/overview.md)
-* [How it works](hera.ag-solana/how-it-works.md)
-* [Swap API](hera.ag-solana/swap-api.md)
+* [Overview](hera-v3-solana/overview.md)
+* [hera.ag](https://beta.hera.ag/)
+* [hera.ag - Docs](https://docs.hera.ag/)
 
 ## General
 
