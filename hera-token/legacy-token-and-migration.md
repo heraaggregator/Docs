@@ -15,7 +15,7 @@ No manual claim was required.
 
 ### Current HERA Token
 
-<table data-header-hidden><thead><tr><th width="194.06732177734375">#</th><th>Context</th></tr></thead><tbody><tr><td>Name</td><td><strong>Hera Token</strong></td></tr><tr><td>Symbol</td><td><strong>HERA</strong></td></tr><tr><td>Chain</td><td>Ethereum</td></tr><tr><td>Standard</td><td>ERC-20 / LayerZero OFT V2</td></tr><tr><td>Decimals</td><td>18</td></tr><tr><td>Maximum Supply</td><td>10,000,000</td></tr><tr><td>Contract</td><td>0x170FC64A94975C8556F6c0e699d3cc565D664473</td></tr><tr><td>Explorer</td><td><a href="https://etherscan.io/token/0x170FC64A94975C8556F6c0e699d3cc565D664473">https://etherscan.io/token/0x170FC64A94975C8556F6c0e699d3cc565D664473</a></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="177.932861328125">#</th><th>Context</th></tr></thead><tbody><tr><td>Name</td><td><strong>Hera Token</strong></td></tr><tr><td>Symbol</td><td><strong>HERA</strong></td></tr><tr><td>Chain</td><td>Ethereum</td></tr><tr><td>Standard</td><td>ERC-20 / LayerZero OFT V2</td></tr><tr><td>Decimals</td><td>18</td></tr><tr><td>Maximum Supply</td><td>10,000,000</td></tr><tr><td>Contract</td><td>0x170FC64A94975C8556F6c0e699d3cc565D664473</td></tr><tr><td>Explorer</td><td><a href="https://etherscan.io/token/0x170FC64A94975C8556F6c0e699d3cc565D664473">https://etherscan.io/token/0x170FC64A94975C8556F6c0e699d3cc565D664473</a></td></tr></tbody></table>
 
 ***
 
