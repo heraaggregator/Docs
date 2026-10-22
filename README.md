@@ -1,16 +1,38 @@
 ---
 cover: .gitbook/assets/cover-gitbook-2024 (1).jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Welcome
 
 {% hint style="info" icon="signal-stream" %}
-## Hera V3 beta is finally on Solana
+## Hera beta is live on Solana
 
-During beta, you can jump into the interface, check routes and quotes, and feed us with your feedback. Execution will stay disabled for now, and both the pathfinder and the UI will keep getting better every single day.\
-\
-Bad routes, broken stuff, weird behavior, or anything you think should be improved, all of it is valuable.\
+Hera's executable beta is now live. Explore real-time routes, execute swaps and help shape the next release by sharing edge cases, failed executions or anything that feels off.\
 \
 Take a look now: [**beta.hera.ag**](https://beta.hera.ag/)
 {% endhint %}

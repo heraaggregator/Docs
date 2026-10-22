@@ -11,6 +11,10 @@ The Hera core team, with full support from the community, decided to launch the 
 
 The Solana version will run directly on **hera.ag**, and all documentation and details will continue to be published there. Under this menu, you’ll find everything from contract information and product details to API routes and other useful resources.
 
+{% hint style="success" %}
+Follow :point\_right: [**hera.ag**](https://hera.ag) and [**docs.hera.ag**](https://docs.hera.ag)
+{% endhint %}
+
 ***
 
 {% hint style="info" icon="signal-stream" %}
@@ -44,3 +48,4 @@ Last but not least, huge thanks to the community for the insane patience. We rea
 Please don’t hesitate to send us every flaw you spot or every feature you want to see, because this is exactly what beta is for. If you run into bugs, don’t get tilted, just let us know so we can fix them and make this thing better.
 
 We’ll keep everyone updated and fully in the loop throughout the beta.
+

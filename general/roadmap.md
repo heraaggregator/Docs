@@ -6,7 +6,7 @@ coverY: 0
 # Roadmap
 
 ```
-// Last update: 13 Apr 2026
+// Last update: 22 Oct 2026
 ```
 
 Blockchain is a living construct, so staying up to date is crucial.
@@ -28,8 +28,8 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [x] Starting the training of the AI-native protocol
 * [x] Core: Release Hera.ag Interface
 * [x] Core: Launch Hera v3 beta - \[beta.hera.ag] ✅
-* [ ] Completing the training of the AI-native protocol and integrating it
-* [ ] Preparation of contracts
+* [x] Completing the training of the AI-native protocol and integrating it
+* [x] Preparation of contracts
 * [ ] Improvements for fee model
 * [ ] Addition of security layers
 * [ ] Official audit for final smart contracts
@@ -37,6 +37,14 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Providing public and enterprise API access
 
 ***
+
+#### Hera Token - Migration:
+
+* [x] HERA Token architecture upgrade & 1:1 migration
+* [x] New: HERA deployment on Ethereum
+* [ ] HERA Token expansion to Solana
+* [ ] Expanded HERA liquidity infrastructure
+* [ ] Next-generation token utility model
 
 #### Planned Developments:
 
@@ -59,6 +67,8 @@ The roadmap is constantly updated in terms of the development of the project. We
 * [ ] Core: **Interchain** Dex Aggregator ✨
 
 ***
+
+
 
 #### H1 / 2026
 

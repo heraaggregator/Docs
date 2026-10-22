@@ -24,23 +24,22 @@
 * [Roadmap](general/roadmap.md)
 * [Trade Mining](general/trade-mining.md)
 * [Staking Portal](general/staking-portal.md)
-* [Omnichain Staking](general/omnichain-staking.md)
 * [Audits](general/audits.md)
 
 ## Hera Token
 
 * [Token Overview](hera-token/token-overview.md)
-* [Hera OFT Token](hera-token/hera-oft-token.md)
+* [Token Architecture](hera-token/token-architecture.md)
+* [Legacy Token & Migration](hera-token/legacy-token-and-migration.md)
 * [Tokenomics](hera-token/tokenomics.md)
-* [Buy Hera Token](hera-token/buy-hera-token.md)
-* [🆕 About OFT Upgrade](hera-token/about-oft-upgrade.md)
+* [Contract](hera-token/metis.md)
+* [Legacy Contracts](hera-token/legacy-contracts.md)
+* [Tokenomics API](hera-token/tokenomics-api.md)
 
 ## Smart Contracts
 
-* [🟤 LayerZero](smart-contracts/metis.md)
-* [🟢 Metis](smart-contracts/metis-1.md)
-* [🟢 Arbitrum](smart-contracts/arbitrum.md)
-* [🟡 Solana](smart-contracts/arbitrum-1.md)
+* [🟡 Solana](smart-contracts/arbitrum.md)
+* [Legacy Contracts](smart-contracts/legacy-contracts.md)
 
 ## Developers
 
@@ -49,7 +48,6 @@
   * [Swagger API](developers/emporia-sdk/swagger-api.md)
   * [Swagger API (Arbitrum)](developers/emporia-sdk/swagger-api-arbitrum.md)
   * [Examples](developers/emporia-sdk/examples.md)
-* [Tokenomics API](developers/tokenomics-api.md)
 
 ## Branding Assets
 

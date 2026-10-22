@@ -5,9 +5,13 @@ coverY: 0
 
 # Utility Token
 
-Hera Token is the governance token of Hera ecosystem. Asides from voting, the token is used in many other areas in the ecosystem.
+HERA is designed as the economic coordination token of the Hera ecosystem.
 
-Hera Token lies at the core of the Hera ecosystem and directly impacts the entire protocol economy in a positive way. It's quite simple: The protocol generates revenue and shares it with its stakeholders like a next-generation dividend.
+Token utility will evolve together with Hera's execution, liquidity and interchain infrastructure rather than remain tied to a single staking model.
+
+Areas under development include protocol-revenue mechanisms, governance, liquidity incentives, ecosystem rewards and product-level benefits for HERA participants.
+
+The previous staking model was retired as part of the 2026 token transition. Future utility mechanisms will be documented here as they become active.
 
 ### Utility Areas
 
@@ -19,11 +23,9 @@ In certain periods Hera tokens are purchased from the market at the rate determi
 
 More Hera Tokens can be earned by staking. Rewards are funded by protocol revenue. Therefore, APY rates are variable.
 
-{% embed url="https://portal.hera.finance" %}
-
 #### 03. Swap Fee Reduce (soon)
 
-Aggregator platform charges a fee for swap transactions. The current rate is 0.3% from input token. For people who stake Hera Token, swap fee rate decreases gradually according to the stake amount and HeraPower.
+Aggregator platform charges a fee for swap executions. For people who stake Hera Token, swap fee rate decreases gradually according to the stake amount and HeraPower.
 
 #### 04. Hera DAO & Governance (soon)
 
