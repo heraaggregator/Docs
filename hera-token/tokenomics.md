@@ -25,7 +25,7 @@ URL: [https://supply.hera.finance/v1.0/supply/circulation](https://supply.hera.f
 
 <summary>Total Supply API</summary>
 
-URL: [https://supply.hera.finance/v1.0/supply/circulation](https://supply.hera.finance/v1.0/supply/circulation)
+URL: [https://supply.hera.finance/v1.0/supply/total](https://supply.hera.finance/v1.0/supply/total)
 
 </details>
 
