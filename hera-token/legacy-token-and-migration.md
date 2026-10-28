@@ -19,7 +19,7 @@ No manual claim was required.
 
 ***
 
-### Legacy Contracts :warning:
+### Legacy Contracts&#x20;
 
 <table><thead><tr><th width="168.907470703125">Chain</th><th width="440.82373046875">Contract Address</th><th>Note</th></tr></thead><tbody><tr><td>Ethereum</td><td><code>0xA2c2C937333165d4c5f2dC5f31a43E1239FeCfeB</code></td><td><em><mark style="color:red;"><code>Deprecated</code></mark></em></td></tr><tr><td>Metis</td><td><code>0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE</code></td><td><em><mark style="color:red;"><code>Deprecated</code></mark></em></td></tr></tbody></table>
 

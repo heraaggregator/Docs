@@ -1,7 +1,3 @@
----
-icon: coin-vertical
----
-
 # Contract
 
 ### Hera Token Details :point\_down:

@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [About Aggregator](about-aggregator.md)
 
 ## Features
 
@@ -29,11 +28,10 @@
 
 * [Token Overview](hera-token/token-overview.md)
 * [Token Architecture](hera-token/token-architecture.md)
-* [Legacy Token & Migration](hera-token/legacy-token-and-migration.md)
 * [Tokenomics](hera-token/tokenomics.md)
 * [Contract](hera-token/metis.md)
-* [Legacy Contracts](hera-token/legacy-contracts.md)
 * [Tokenomics API](hera-token/tokenomics-api.md)
+* [Legacy Token & Migration](hera-token/legacy-token-and-migration.md)
 
 ## Smart Contracts
 

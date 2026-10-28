@@ -29,7 +29,7 @@ layout:
 
 # Welcome
 
-{% hint style="info" icon="signal-stream" %}
+{% hint style="success" icon="signal-stream" %}
 ## Hera beta is live on Solana
 
 Hera's executable beta is now live. Explore real-time routes, execute swaps and help shape the next release by sharing edge cases, failed executions or anything that feels off.\
@@ -51,7 +51,7 @@ Hera Aggregator provides maximum output in swap transactions for traders with AI
 
 1. Connect wallet to Hera Dex Aggregator
 2. Select tokens for swap
-3. Pathfinder create the best route for max output amount
+3. Pathfinder create the best route for best output
 4. Confirm and complete swap progress!
 
 ### Why Hera Aggregator?
@@ -76,6 +76,3 @@ Developing can be difficult at times. On our end, we aim to make creating a supe
 * Providing various methods of accessing the swap, so all apps, dapps, and programs can use it seamlessly
 * Providing updated liquidity sources, token lists, and possible UX improvements as soon as possible.
 
-> **EmporiaSDK has been successfully released!** [<mark style="color:green;">**Check Now!**</mark>](/broken/pages/gmjP0zs9gPK58DtZqMbi)
-
-> If you are a protocol developer or project manager and looking for a communication way to integrate into Hera Aggregator; please contact us via Twitter, Telegram, Discord or mail. Thanks!

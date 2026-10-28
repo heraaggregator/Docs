@@ -5,7 +5,7 @@ coverY: 0
 
 # Staking Portal
 
-{% hint style="danger" %}
+{% hint style="danger" icon="shield-exclamation" %}
 ## HERA Staking
 
 The previous HERA staking system has been paused following the October 2026 token migration.
