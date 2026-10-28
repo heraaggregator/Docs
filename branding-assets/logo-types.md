@@ -7,31 +7,11 @@ coverY: 0
 
 In July 2024, a rebranding effort was undertaken for Hera, and since then, the new logo has been in use. To avoid any confusion, we are also displaying our old logo below.
 
-{% hint style="info" %}
-Please take care to keep the original logo in your content.
-{% endhint %}
-
-## Hera Logo Assets
+### Hera Logo
 
 
 
-<div>
-
-<figure><img src="../.gitbook/assets/HeraLogo-square.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Icon.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Icon-square-dark.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/HeraLogo-square-dark.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/HeraLogo-square.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Icon.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Icon-square-dark.png" alt=""><figcaption></figcaption></figure></div>
 
 Download the branding package to directly access the logo versions and different file types.
 

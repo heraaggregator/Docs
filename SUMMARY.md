@@ -41,14 +41,6 @@
 * [🟡 Solana](smart-contracts/arbitrum.md)
 * [Legacy Contracts](smart-contracts/legacy-contracts.md)
 
-## Developers
-
-* [Emporia SDK](developers/emporia-sdk/README.md)
-  * [Overview](developers/emporia-sdk/overview.md)
-  * [Swagger API](developers/emporia-sdk/swagger-api.md)
-  * [Swagger API (Arbitrum)](developers/emporia-sdk/swagger-api-arbitrum.md)
-  * [Examples](developers/emporia-sdk/examples.md)
-
 ## Branding Assets
 
 * [Logo Types](branding-assets/logo-types.md)

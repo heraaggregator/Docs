@@ -76,6 +76,6 @@ Developing can be difficult at times. On our end, we aim to make creating a supe
 * Providing various methods of accessing the swap, so all apps, dapps, and programs can use it seamlessly
 * Providing updated liquidity sources, token lists, and possible UX improvements as soon as possible.
 
-> **EmporiaSDK has been successfully released!** [<mark style="color:green;">**Check Now!**</mark>](developers/emporia-sdk/overview.md)
+> **EmporiaSDK has been successfully released!** [<mark style="color:green;">**Check Now!**</mark>](/broken/pages/gmjP0zs9gPK58DtZqMbi)
 
 > If you are a protocol developer or project manager and looking for a communication way to integrate into Hera Aggregator; please contact us via Twitter, Telegram, Discord or mail. Thanks!
