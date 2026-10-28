@@ -11,7 +11,6 @@
 * [Chain Agnostic Core](features/ai-powered-pathfinder-3.md)
 * [Interchain](features/ai-powered-pathfinder-4.md)
 * [Utility Token](features/utility-token.md)
-* [Swap Fee Distribution](features/swap-fee-distribution.md)
 
 ## Hera v3 - Solana
 

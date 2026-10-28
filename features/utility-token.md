@@ -17,11 +17,11 @@ The previous staking model was retired as part of the 2026 token transition. Fut
 
 #### 01. Buy-Back Progress
 
-In certain periods Hera tokens are purchased from the market at the rate determined by the platform's revenue and VaultManager's recommendations. This is used to add liquidity on AMMs and exchanges, transfer to the market-maker wallet, or sent to Staking Portal as a reward to participants.
+In certain periods Hera tokens are purchased from the market at the rate determined by the platform's revenue and VaultManager's recommendations. This is used to add liquidity on MMs and exchanges, transfer to the market-maker wallet, or sent to staking as a reward to participants.
 
 #### 02. Stake and Earn
 
-More Hera Tokens can be earned by staking. Rewards are funded by protocol revenue. Therefore, APY rates are variable.
+More Hera Tokens can be earned by staking. Rewards are funded by protocol revenue. Therefore, APY rates are variable. _<mark style="color:$info;">\*paused</mark>_
 
 #### 03. Swap Fee Reduce (soon)
 
